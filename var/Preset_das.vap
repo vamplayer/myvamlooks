@@ -1,0 +1,3304 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "useAdvancedColliders" : "true", 
+         "useAuxBreastColliders" : "true", 
+         "disableAnatomy" : "false", 
+         "useMaleMorphsOnFemale" : "false", 
+         "useFemaleMorphsOnMale" : "true", 
+         "character" : "Futa Maria", 
+         "clothing" : [ 
+            { 
+               "id" : "Jeans", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "TShirt", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring Thin1.vam", 
+               "internalId" : "WeebU:cock ring Thin1", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin2/cock ring Thin2.vam", 
+               "internalId" : "WeebU:cock ring Thin2", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin3/cock ring Thin3.vam", 
+               "internalId" : "WeebU:cock ring Thin3", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Enhanced_Eyes_Realastic.vam", 
+               "internalId" : "Hunting-Succubus:Enhanced_Eyes_Realastic", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Male/SupaRioAmateur/Diamond Earring/Diamond Earring R.vam", 
+               "internalId" : "SupaRioAmateur:Diamond Earring R", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Male/SupaRioAmateur/Diamond Earring/Diamond Earring L.vam", 
+               "internalId" : "SupaRioAmateur:Diamond Earring L", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/eyelids/eyelids.vam", 
+               "internalId" : "Jackaroo:eyelids", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/Lips/Lips.vam", 
+               "internalId" : "Jackaroo:Lips", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Cock_Panty.4:/Custom/Clothing/Male/WeebU/cock panties/cock panties.vam", 
+               "internalId" : "WeebU:cock panties", 
+               "enabled" : "true"
+            }
+         ], 
+         "hair" : [ 
+            { 
+               "id" : "Tyler Hair", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "WeebU.Futa_Hair.11:/Custom/Hair/Male/NoStage3/Side Bob.vam", 
+               "internalId" : "NoStage3:Side Bob", 
+               "enabled" : "true"
+            }
+         ], 
+         "morphs" : [ 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.001224658"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "PBMFS03", 
+               "name" : "PBMFS03", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Erect", 
+               "name" : "Erect", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Penis Width", 
+               "name" : "Penis Width", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.403769"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.10:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.417976"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.10:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.007734609"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.0156029"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.2882978"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.10:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.294199"
+            }
+         ], 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Eyes_Reloaded-Lite/Deep Eyelid.vmi", 
+               "name" : "Deep Eyelid", 
+               "value" : "-1.445"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Eyes_Reloaded-Lite/Eyes inner up.vmi", 
+               "name" : "Eyes inner up", 
+               "value" : "-0.958"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Eyes_Reloaded-Lite/Eyes outer back.vmi", 
+               "name" : "Eyes outer back", 
+               "value" : "-0.224"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Eyes_Reloaded-Lite/dilation.vmi", 
+               "name" : "PupilDilation", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Face_Reloaded-Lite/Cheeks.vmi", 
+               "name" : "Cheeks", 
+               "value" : "0.1346999"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Face_Reloaded-Lite/Chin short.vmi", 
+               "name" : "Chin short", 
+               "value" : "0.183"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Face_Reloaded-Lite/Chin wide.vmi", 
+               "name" : "Chin wide", 
+               "value" : "0.1276357"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Head_Reloaded-Lite/Face long.vmi", 
+               "name" : "Face long", 
+               "value" : "0.021"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Head_Reloaded-Lite/Face thin.vmi", 
+               "name" : "Face thin", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Head_Reloaded-Lite/Face wide.vmi", 
+               "name" : "Face wide", 
+               "value" : "-0.3018222"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Hip_Reloaded-Lite/Bubble Butt.vmi", 
+               "name" : "Bubble Butt", 
+               "value" : "0.69"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_armpits_indent_comp.vmi", 
+               "name" : "Armpits Indent", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_bizeps_indent.vmi", 
+               "name" : "Deltoid Indent", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_ellbow_indent_inner.vmi", 
+               "name" : "Elbows Indent Inner", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_ellbows_indent_outer_comp.vmi", 
+               "name" : "Elbows Indent Outer", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_wrist_definition.vmi", 
+               "name" : "Wrist Definition", 
+               "value" : "0.66"
+            }, 
+            { 
+               "uid" : "Back Definition .", 
+               "name" : "Back Definition .", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_lower_back_indent.vmi", 
+               "name" : "Lower Back Indent", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Body Tone", 
+               "name" : "Body Tone", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Bodybuilder Details", 
+               "name" : "Bodybuilder Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Fitness Details", 
+               "name" : "Fitness Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Height", 
+               "name" : "Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Voluptuous", 
+               "name" : "Voluptuous", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Breast Large", 
+               "name" : "Breast Large", 
+               "value" : "0.245"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_nipples_bulb.vmi", 
+               "name" : "Nipples Bulbous", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nipples Diameter", 
+               "name" : "Nipples Diameter", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "CollarBoneDefine", 
+               "name" : "CollarBoneDefine", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_lats_to_ribs.vmi", 
+               "name" : "Lats to Ribs", 
+               "value" : "0.6"
+            }, 
+            { 
+               "uid" : "RibCageDefine", 
+               "name" : "RibCageDefine", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Ribs Definition", 
+               "name" : "Ribs Definition", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Genitals-extreme expansion", 
+               "name" : "Genitals-extreme expansion", 
+               "value" : "0.1223125"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0.2324852"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0.2324852"
+            }, 
+            { 
+               "uid" : "Labia minora-spread-LLow", 
+               "name" : "Labia minora-spread-LLow", 
+               "value" : "0.03248524"
+            }, 
+            { 
+               "uid" : "Labia minora-spread-RLow", 
+               "name" : "Labia minora-spread-RLow", 
+               "value" : "0.03248524"
+            }, 
+            { 
+               "uid" : "Vagina-expansion", 
+               "name" : "Vagina-expansion", 
+               "value" : "0.02165683"
+            }, 
+            { 
+               "uid" : "Brows Size", 
+               "name" : "Brows Size", 
+               "value" : "-0.1849792"
+            }, 
+            { 
+               "uid" : "Cheeks Depth", 
+               "name" : "Cheeks Depth", 
+               "value" : "0.2077082"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Left", 
+               "name" : "Cheeks Depth Left", 
+               "value" : "0.2077082"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Right", 
+               "name" : "Cheeks Depth Right", 
+               "value" : "0.2077082"
+            }, 
+            { 
+               "uid" : "Cheeks Dimple Crease Left", 
+               "name" : "Cheeks Dimple Crease Left", 
+               "value" : "0.05791116"
+            }, 
+            { 
+               "uid" : "Cheeks Dimple Crease Right", 
+               "name" : "Cheeks Dimple Crease Right", 
+               "value" : "0.05791116"
+            }, 
+            { 
+               "uid" : "Chin Crease Smooth", 
+               "name" : "Chin Crease Smooth", 
+               "value" : "-0.4129879"
+            }, 
+            { 
+               "uid" : "Chin Height", 
+               "name" : "Chin Height", 
+               "value" : "0.2017071"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/Chin Rotate up.vmi", 
+               "name" : "Chin Rotate up", 
+               "value" : "0.2279258"
+            }, 
+            { 
+               "uid" : "Chin Round", 
+               "name" : "Chin Round", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/m_eyebags_mid.vmi", 
+               "name" : "Eyebags mid", 
+               "value" : "0.382"
+            }, 
+            { 
+               "uid" : "Eyelashes Curl", 
+               "name" : "Eyelashes Curl", 
+               "value" : "0.5343276"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/eye fold down.vmi", 
+               "name" : "Eyelids Fold Center", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Eyelids Fold Down", 
+               "name" : "Eyelids Fold Down", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/eye fold hanging.vmi", 
+               "name" : "Eyelids Fold Hanging", 
+               "value" : "-0.163"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/eye fold rotate.vmi", 
+               "name" : "Eyelids Fold rotate", 
+               "value" : "0.336"
+            }, 
+            { 
+               "uid" : "Eyelids Smooth", 
+               "name" : "Eyelids Smooth", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Eyes Inner  Shape", 
+               "name" : "Eyes Inner  Shape", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Eyes Inner Corner Height", 
+               "name" : "Eyes Inner Corner Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Eyes Inner Corner Width", 
+               "name" : "Eyes Inner Corner Width", 
+               "value" : "-1.274078"
+            }, 
+            { 
+               "uid" : "Eyes Inner Depth", 
+               "name" : "Eyes Inner Depth", 
+               "value" : "-0.1954221"
+            }, 
+            { 
+               "uid" : "Jaw Angle", 
+               "name" : "Jaw Angle", 
+               "value" : "0.6"
+            }, 
+            { 
+               "uid" : "Jaw Height", 
+               "name" : "Jaw Height", 
+               "value" : "-0.2263768"
+            }, 
+            { 
+               "uid" : "Jaw Height Left", 
+               "name" : "Jaw Height Left", 
+               "value" : "-0.2263768"
+            }, 
+            { 
+               "uid" : "Jaw Height Right", 
+               "name" : "Jaw Height Right", 
+               "value" : "-0.2263768"
+            }, 
+            { 
+               "uid" : "Teeth Bottom Size", 
+               "name" : "Teeth Bottom Size", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Lips Bottom Shape ", 
+               "name" : "Lips Bottom Shape ", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "LIps Top Width", 
+               "name" : "LIps Top Width", 
+               "value" : "0.8178358"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/m_lower_lip_crease.vmi", 
+               "name" : "Lower Lip Crease", 
+               "value" : "2.001082"
+            }, 
+            { 
+               "uid" : "Nose Bridge Lower Depth", 
+               "name" : "Nose Bridge Lower Depth", 
+               "value" : "0.5159448"
+            }, 
+            { 
+               "uid" : "Nose Bridge Middle Width", 
+               "name" : "Nose Bridge Middle Width", 
+               "value" : "0.1426281"
+            }, 
+            { 
+               "uid" : "Nose Bridge Root Width", 
+               "name" : "Nose Bridge Root Width", 
+               "value" : "0.1333491"
+            }, 
+            { 
+               "uid" : "Nose Bridge Slope", 
+               "name" : "Nose Bridge Slope", 
+               "value" : "-0.1193708"
+            }, 
+            { 
+               "uid" : "Nose Bump", 
+               "name" : "Nose Bump", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Nose Ridge", 
+               "name" : "Nose Ridge", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Nose Size", 
+               "name" : "Nose Size", 
+               "value" : "-0.1"
+            }, 
+            { 
+               "uid" : "Nose Tip Square Bottom", 
+               "name" : "Nose Tip Square Bottom", 
+               "value" : "-0.2250239"
+            }, 
+            { 
+               "uid" : "Nose Tip Upper Shape ", 
+               "name" : "Nose Tip Upper Shape ", 
+               "value" : "-0.7190142"
+            }, 
+            { 
+               "uid" : "Nose Tip Width", 
+               "name" : "Nose Tip Width", 
+               "value" : "0.5766163"
+            }, 
+            { 
+               "uid" : "Nose Tip Width Lower", 
+               "name" : "Nose Tip Width Lower", 
+               "value" : "-2"
+            }, 
+            { 
+               "uid" : "Nose Tip Width Upper", 
+               "name" : "Nose Tip Width Upper", 
+               "value" : "-0.933063"
+            }, 
+            { 
+               "uid" : "Nose Width", 
+               "name" : "Nose Width", 
+               "value" : "0.062"
+            }, 
+            { 
+               "uid" : "Nostrils Height", 
+               "name" : "Nostrils Height", 
+               "value" : "-0.593"
+            }, 
+            { 
+               "uid" : "Nostrils Height Left", 
+               "name" : "Nostrils Height Left", 
+               "value" : "-0.593"
+            }, 
+            { 
+               "uid" : "Nostrils Height Right", 
+               "name" : "Nostrils Height Right", 
+               "value" : "-0.593"
+            }, 
+            { 
+               "uid" : "Forehead Height", 
+               "name" : "Forehead Height", 
+               "value" : "-0.437"
+            }, 
+            { 
+               "uid" : "Forehead Round", 
+               "name" : "Forehead Round", 
+               "value" : "-0.422"
+            }, 
+            { 
+               "uid" : "GlutesBig", 
+               "name" : "GlutesBig", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "GluteShape1", 
+               "name" : "GluteShape1", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Hip Size", 
+               "name" : "Hip Size", 
+               "value" : "0.149"
+            }, 
+            { 
+               "uid" : "HipSmooth", 
+               "name" : "HipSmooth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Iliac Line", 
+               "name" : "Iliac Line", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_Pelvis_Indent.vmi", 
+               "name" : "Pelvis Indent", 
+               "value" : "0.4"
+            }, 
+            { 
+               "uid" : "Calves Size", 
+               "name" : "Calves Size", 
+               "value" : "0.397"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_hamstring.vmi", 
+               "name" : "Hamstring", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_knee_cap.vmi", 
+               "name" : "Knee Cap", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_shin_bone.vmi", 
+               "name" : "Shin Bone", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Thighs Tone", 
+               "name" : "Thighs Tone", 
+               "value" : "-0.547"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_thights_indent.vmi", 
+               "name" : "Thights Indent", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/m_sternocleidomastoid.vmi", 
+               "name" : "Sternocleidomastoid", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_windpipe.vmi", 
+               "name" : "Windpipe", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Abs Definition", 
+               "name" : "Abs Definition", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WaistHipDefine", 
+               "name" : "WaistHipDefine", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Mouth_Reloaded-Lite/Mouth big X.vmi", 
+               "name" : "Mouth big X", 
+               "value" : "-0.321"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nose ridge small.vmi", 
+               "name" : "Nose ridge small", 
+               "value" : "0.25"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nose tip up.vmi", 
+               "name" : "Nose tip up", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nose wide.vmi", 
+               "name" : "Nose wide", 
+               "value" : "-0.3"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nostrils flat.vmi", 
+               "name" : "Nostrils flat", 
+               "value" : "-0.214"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nostrils turn up.vmi", 
+               "name" : "Nostrils turn up", 
+               "value" : "-1.326"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Nose_Reloaded-Lite/Nostrils wide.vmi", 
+               "name" : "Nostrils wide", 
+               "value" : "-0.206"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female_genitalia/TenStrip/Anal Helper.vmi", 
+               "name" : "Anal Helper", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female/TenStrip/Thicc.vmi", 
+               "name" : "Thicc", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Waist_Reloaded-Lite/Pelvis define.vmi", 
+               "name" : "Pelvis define", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "EyelidControl", 
+         "eyelidLookMorphsEnabled" : "true"
+      }, 
+      { 
+         "id" : "AutoJawMouthMorph", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "AutoExpressions", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "PectoralControl", 
+         "mass" : "0.35", 
+         "centerOfGravityPercent" : "0.65", 
+         "spring" : "45", 
+         "damper" : "0.9", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "450", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "6", 
+         "targetRotationX" : "4", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "MaleAnatomy", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "FemaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1111108", 
+            "s" : "0.2093028", 
+            "v" : "0.1686275"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1.25", 
+         "Gloss" : "5.6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.111111", 
+            "s" : "0.2499996", 
+            "v" : "0.0470588"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.07936499", 
+            "s" : "0.2999999", 
+            "v" : "0.2745098"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.2509804", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "irises", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0.1", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Irises" : "Color 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.6666667", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "sclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.5", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0.2", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.3", 
+         "Specular Bumpiness" : "0.05", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Sclera" : "Sclera 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5584416", 
+            "s" : "0.3019608", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "lacrimals", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6.5", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SoftBodyPhysicsEnabler", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "rescaleObject", 
+         "scale" : "1"
+      }, 
+      { 
+         "id" : "skin", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.682", 
+         "Gloss Texture Offset" : "0.315", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.1", 
+         "Specular Bumpiness" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Skin Color" : { 
+            "h" : "0.07986113", 
+            "s" : "0.1882352", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5797102", 
+            "s" : "0.117347", 
+            "v" : "0.7686275"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.2509804", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "textures", 
+         "autoBlendGenitalTextures" : "false", 
+         "autoBlendGenitalSpecGlossNormalTextures" : "true", 
+         "autoBlendGenitalLightenDarken" : "0", 
+         "autoBlendGenitalHueOffset" : "0", 
+         "autoBlendGenitalSaturationOffset" : "0", 
+         "faceDiffuseUrl" : "", 
+         "torsoDiffuseUrl" : "", 
+         "limbsDiffuseUrl" : "", 
+         "genitalsDiffuseUrl" : "", 
+         "faceSpecularUrl" : "", 
+         "torsoSpecularUrl" : "", 
+         "limbsSpecularUrl" : "", 
+         "genitalsSpecularUrl" : "", 
+         "faceGlossUrl" : "", 
+         "torsoGlossUrl" : "", 
+         "limbsGlossUrl" : "", 
+         "genitalsGlossUrl" : "", 
+         "faceNormalUrl" : "", 
+         "torsoNormalUrl" : "", 
+         "limbsNormalUrl" : "", 
+         "genitalsNormalUrl" : "", 
+         "faceDetailUrl" : "", 
+         "torsoDetailUrl" : "", 
+         "limbsDetailUrl" : "", 
+         "genitalsDetailUrl" : "", 
+         "faceDecalUrl" : "", 
+         "torsoDecalUrl" : "", 
+         "limbsDecalUrl" : "", 
+         "genitalsDecalUrl" : ""
+      }, 
+      { 
+         "id" : "teeth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9245283"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "tongue", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.2", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.2", 
+         "Specular Bumpiness" : "0.5", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "mouth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Side BobSim", 
+         "styleModeAllowControlOtherNodes" : "false", 
+         "styleModeShowCurls" : "false", 
+         "styleModeShowTool1" : "true", 
+         "styleModeShowTool2" : "true", 
+         "styleModeShowTool3" : "false", 
+         "styleModeShowTool4" : "false", 
+         "simulationEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "usePaintedRigidity" : "true", 
+         "curlAllowReverse" : "true", 
+         "curlAllowFlipAxis" : "true", 
+         "styleJointsSearchDistance" : "0.01", 
+         "styleModeCollisionRadius" : "0.001", 
+         "styleModeCollisionRadiusRoot" : "0.001", 
+         "styleModeGravityMultiplier" : "0", 
+         "styleModeUpHairPullStrength" : "0.1", 
+         "collisionRadius" : "0.003709789", 
+         "collisionRadiusRoot" : "0.001", 
+         "drag" : "0.1", 
+         "rootRigidity" : "0.2", 
+         "mainRigidity" : "0.01", 
+         "tipRigidity" : "0", 
+         "rigidityRolloffPower" : "8", 
+         "friction" : "0.2", 
+         "gravityMultiplier" : "1", 
+         "weight" : "1", 
+         "iterations" : "1", 
+         "cling" : "0.5", 
+         "clingRolloff" : "1", 
+         "snap" : "0.2", 
+         "bendResistance" : "0.2", 
+         "colorRolloff" : "1.268416", 
+         "diffuseSoftness" : "0.04223786", 
+         "primarySpecularSharpness" : "160", 
+         "secondarySpecularSharpness" : "64", 
+         "specularShift" : "0.4", 
+         "fresnelPower" : "8", 
+         "fresnelAttenuation" : "0.5092412", 
+         "randomColorPower" : "1.414283", 
+         "randomColorOffset" : "0.4638286", 
+         "IBLFactor" : "0.9293019", 
+         "normalRandomize" : "0.2286768", 
+         "curlX" : "0.1074222", 
+         "curlY" : "0.03162127", 
+         "curlZ" : "0.08767638", 
+         "curlScale" : "0.07217025", 
+         "curlScaleRandomness" : "1.074674", 
+         "curlFrequency" : "0.2999999", 
+         "curlFrequencyRandomness" : "0.9299083", 
+         "curlNormalAdjust" : "-0.03206548", 
+         "curlRoot" : "0", 
+         "curlMid" : "0.7437265", 
+         "curlTip" : "1", 
+         "curlMidpoint" : "0.5965855", 
+         "curlCurvePower" : "1", 
+         "length1" : "1", 
+         "length2" : "0.983772", 
+         "length3" : "0.9388308", 
+         "width" : "0.0001", 
+         "curveDensity" : "12", 
+         "hairMultiplier" : "12", 
+         "maxSpread" : "0.025", 
+         "spreadRoot" : "1", 
+         "spreadMid" : "0.7337937", 
+         "spreadTip" : "0.2119647", 
+         "spreadMidpoint" : "0.3731897", 
+         "spreadCurvePower" : "0.7198088", 
+         "wind" : [ 
+            "0", 
+            "0", 
+            "0"
+         ], 
+         "shaderType" : "Quality", 
+         "rootColor" : { 
+            "h" : "0.0437056", 
+            "s" : "0.9371415", 
+            "v" : "0.08020512"
+         }, 
+         "tipColor" : { 
+            "h" : "0.07912458", 
+            "s" : "0.5391246", 
+            "v" : "1"
+         }, 
+         "specularColor" : { 
+            "h" : "0.1046932", 
+            "s" : "0.3640815", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Side BobItemControl", 
+         "disableAnatomy" : "false"
+      }, 
+      { 
+         "id" : "NoStage3:Side BobLeytonScalpMaterial", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2423", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5068618", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.06791747", 
+            "s" : "0.6044399", 
+            "v" : "0.4233232"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.297143"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin1WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin1Sim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin1ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin1MaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Diffuse.png", 
+         "customTexture_SpecTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Specular.png", 
+         "customTexture_GlossTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Glossiness.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.7529412"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin2WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin2Sim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin2ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin2MaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Diffuse.png", 
+         "customTexture_SpecTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Specular.png", 
+         "customTexture_GlossTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Glossiness.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.7529412"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin3WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin3Sim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin3ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:cock ring Thin3MaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Diffuse.png", 
+         "customTexture_SpecTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Specular.png", 
+         "customTexture_GlossTex" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Glossiness.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Clothing-accessories.1:/Custom/Clothing/Male/WeebU/cock ring Thin1/cock ring thin1_defaultMat_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.7529412"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-0.0002", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialTearLine_Blend", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2495.504", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "-0.7232736", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0.7541705", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.02654302", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0.5358329", 
+         "customTexture5OffsetY" : "0.1286911", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/BlendeTesselete.png", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/thintearline_normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "1", 
+            "s" : "0.27242", 
+            "v" : "0.7904098"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialShadow", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2511.43", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Untitled-2.png", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialSide_Shadow", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2282.782", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "-0.868137", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/SIDESHADOW.png", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialReflection_Sclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2273", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0.03331738", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Reflection_normalobj.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "1", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialReflection_Iris", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2273", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0.03331738", 
+         "Alpha Adjust" : "-0.9333593", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Reflection_normalobj.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "1", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialIris_Effect", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2273", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0.03331738", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Reflection_normalobj.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "1", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialIris", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2273", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0.03331738", 
+         "Alpha Adjust" : "-0.717", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Reflection_normalobj.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "1", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialSclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2251", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-0.6214155", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "4", 
+         "customTexture1TileY" : "4", 
+         "customTexture1OffsetX" : "0.385", 
+         "customTexture1OffsetY" : "0.372", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "4", 
+         "customTexture4TileY" : "4", 
+         "customTexture4OffsetX" : "0.385", 
+         "customTexture4OffsetY" : "0.372", 
+         "customTexture5TileX" : "4", 
+         "customTexture5TileY" : "4", 
+         "customTexture5OffsetX" : "0.3854133", 
+         "customTexture5OffsetY" : "0.3716398", 
+         "customTexture6TileX" : "4", 
+         "customTexture6TileY" : "4", 
+         "customTexture6OffsetX" : "0.385", 
+         "customTexture6OffsetY" : "0.372", 
+         "customTexture_MainTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/eyeball_color.tif", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/eyeball_color.tif", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/cornea_normal_map.png", 
+         "customTexture_DecalTex" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/eyeball_color.tif", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Hunting-Succubus:Enhanced_Eyes_RealasticMaterialIris_Effect_Plane", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2254.254", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-0.9856165", 
+         "Diffuse Texture Offset" : "-1", 
+         "Diffuse Bumpiness" : "1.147408", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Hunting-Succubus.Male&Futa_Enhanced_Eyes.2:/Custom/Clothing/Male/Hunting-Succubus/Enhanced_Eyes/Textures/Sphere_normal reverse_direction.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0.1089523", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-0.001", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.001", 
+         "drag" : "0", 
+         "weight" : "0.6999999", 
+         "distanceScale" : "1", 
+         "stiffness" : "1", 
+         "compressionResistance" : "1", 
+         "friction" : "0.1", 
+         "staticMultiplier" : "8", 
+         "collisionPower" : "0.1", 
+         "gravityMultiplier" : "0.6999999", 
+         "iterations" : "2", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "0.1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialDiamond_1", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialDiamond_2", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialDiamond_Sides", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialHook_Sides", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialHook_1", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring RMaterialHook_2", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-0.001", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.001", 
+         "drag" : "0", 
+         "weight" : "0.6999999", 
+         "distanceScale" : "1", 
+         "stiffness" : "1", 
+         "compressionResistance" : "1", 
+         "friction" : "0.1", 
+         "staticMultiplier" : "8", 
+         "collisionPower" : "0.1", 
+         "gravityMultiplier" : "0.6999999", 
+         "iterations" : "2", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "0.1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialDiamond_1", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialDiamond_2", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialDiamond_Sides", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialHook_Sides", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialHook_1", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Diamond Earring LMaterialHook_2", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2440", 
+         "Specular Texture Offset" : "0.699", 
+         "Specular Intensity" : "6.999", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_diffuse.jpg", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_glossy.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_alpha.jpg", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/Diamond Earring L_1_pbr_normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "SupaRioAmateur.Basic_Earrings.4:/Custom/Clothing/Female/SupaRioAmateur/Diamond Earring/Tex/SimDiamond.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5000965"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.09607843", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Jackaroo:eyelidsWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "0.0002", 
+         "additionalThicknessMultiplier" : "0.0001", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "Jackaroo:eyelidsSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Jackaroo:eyelidsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "Jackaroo:eyelidsMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "-0.2642574", 
+         "Specular Intensity" : "8.194511", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.1611387", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.8416989", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "0.9417264", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/eyelids/eyelids__Extract2_Diffuse.jpg", 
+         "customTexture_SpecTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/eyelids/eyelids__Extract2_Specular.jpg", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/eyelids/AlphaLarge.png", 
+         "customTexture_BumpMap" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/eyelids/eyelids__Extract2_Normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1557215", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1410043", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Jackaroo:LipsWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "0", 
+         "additionalThicknessMultiplier" : "0.0006", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "Jackaroo:LipsSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Jackaroo:LipsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "Jackaroo:LipsMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "1.893815", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.4181057", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.8416989", 
+         "Alpha Adjust" : "-0.500151", 
+         "Diffuse Texture Offset" : "1", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "1.117808", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/Lips/lips_Default_Diffuse.jpg", 
+         "customTexture_SpecTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/Lips/lips_Default_Specular.jpg", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/Lips/LipsMaterialCombinedUVTemplate.png", 
+         "customTexture_BumpMap" : "Jackaroo.Futa_Eyes!Lips!Nails!.1:/Custom/Clothing/Male/Jackaroo/Lips/lips_Default_Normal.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.02592186", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5646916", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:cock pantiesWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:cock pantiesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "1", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:cock pantiesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:cock pantiesMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1.5", 
+         "Specular Bumpiness" : "1.5", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.Cock_Panty.4:/Custom/Clothing/Male/WeebU/cock panties/_Diffuse_1001.jpg", 
+         "customTexture_SpecTex" : "WeebU.Cock_Panty.4:/Custom/Clothing/Male/WeebU/cock panties/_Specular_1001.jpg", 
+         "customTexture_GlossTex" : "WeebU.Cock_Panty.4:/Custom/Clothing/Male/WeebU/cock panties/_Glossiness_1001.jpg", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Panty.4:/Custom/Clothing/Male/WeebU/cock panties/_Normal_OpenGL_1001.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }
+   ]
+}
