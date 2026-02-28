@@ -1,0 +1,157 @@
+{ 
+   "licenseType" : "CC BY-NC", 
+   "creatorName" : "koolo", 
+   "packageName" : "Yuldasha", 
+   "standardReferenceVersionOption" : "Minimum", 
+   "scriptReferenceVersionOption" : "Exact", 
+   "description" : "Yuldasha\nA powerful Arch Demoness.\nbased off WeebU's purple Draenei can be used in scenes with her in it with Minimum  tweaking ", 
+   "credits" : "WeebU\nDamarmau\nzoidberg", 
+   "instructions" : "", 
+   "promotionalLink" : "", 
+   "programVersion" : "1.20.77.9", 
+   "contentList" : [ 
+      "Saves/scene/Yuldasha.json", 
+      "Saves/scene/Yuldasha.jpg", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/faceN.jpg", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/demon torsoN.jpg", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/demon limbsN.jpg", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/demon genitalsN.jpg", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/Texture/faceD copy.png", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/Texture/torsoD copy.png", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/Texture/limbsD - Copy copy.png", 
+      "Custom/Atom/Person/Textures/MaleBase/Demon Pack/Texture/demon Horsewang_D_Black_Decal.png"
+   ], 
+   "dependencies" : { 
+      "Hunting-Succubus.MaleBodySmootherTessellation.3" : { 
+         "licenseType" : "PC EA", 
+         "dependencies" : { 
+         }
+      }, 
+      "WeebU.Monster_Girl_5.min1" : { 
+         "licenseType" : "CC BY-NC", 
+         "dependencies" : { 
+            "Hunting-Succubus.MaleBodySmootherTessellation.3" : { 
+               "licenseType" : "PC EA", 
+               "dependencies" : { 
+               }
+            }, 
+            "WeebU.Ina_Futa.1" : { 
+               "licenseType" : "FC", 
+               "dependencies" : { 
+                  "Miki.Kunoichi_Hair.latest" : { 
+                     "licenseType" : "CC BY", 
+                     "dependencies" : { 
+                     }
+                  }, 
+                  "Miki.Sakura_Hair.latest" : { 
+                     "licenseType" : "PC EA", 
+                     "dependencies" : { 
+                     }
+                  }, 
+                  "WeebU.My_morphs.latest" : { 
+                     "licenseType" : "FC", 
+                     "dependencies" : { 
+                     }
+                  }
+               }
+            }, 
+            "WeebU.Gold_bracelets.latest" : { 
+               "licenseType" : "CC BY-NC", 
+               "dependencies" : { 
+               }
+            }, 
+            "kemenate.Male_Body_Hair.latest" : { 
+               "licenseType" : "FC", 
+               "dependencies" : { 
+               }
+            }, 
+            "ICannotDie.Male_Pubic_Hair_01.latest" : { 
+               "licenseType" : "CC BY", 
+               "dependencies" : { 
+               }
+            }, 
+            "WeebU.Futa_Hair.latest" : { 
+               "licenseType" : "FC", 
+               "dependencies" : { 
+                  "VaMChan.Hair_Afro_braids.latest" : { 
+                     "licenseType" : "CC BY", 
+                     "dependencies" : { 
+                     }
+                  }
+               }
+            }
+         }
+      }, 
+      "WeebU.Ina_Futa.1" : { 
+         "licenseType" : "FC", 
+         "dependencies" : { 
+            "Hunting-Succubus.MaleBodySmootherTessellation.3" : { 
+               "licenseType" : "PC EA", 
+               "dependencies" : { 
+               }
+            }, 
+            "Miki.Kunoichi_Hair.latest" : { 
+               "licenseType" : "CC BY", 
+               "dependencies" : { 
+               }
+            }, 
+            "Miki.Sakura_Hair.latest" : { 
+               "licenseType" : "PC EA", 
+               "dependencies" : { 
+               }
+            }, 
+            "WeebU.My_morphs.latest" : { 
+               "licenseType" : "FC", 
+               "dependencies" : { 
+               }
+            }
+         }
+      }, 
+      "kemenate.Morphs.min10" : { 
+         "licenseType" : "FC", 
+         "dependencies" : { 
+         }
+      }, 
+      "JoyBoy.Andi_Collection.min2" : { 
+         "licenseType" : "CC BY-NC", 
+         "dependencies" : { 
+            "TKB.Andi-Futa__Secretary_Pinup.latest" : { 
+               "licenseType" : "CC BY-NC", 
+               "dependencies" : { 
+                  "Blazedust.Script_ParentHoldLink.1" : { 
+                     "licenseType" : "FC", 
+                     "dependencies" : { 
+                     }
+                  }
+               }
+            }, 
+            "JoyBoy.Andi_Secretary_Female_Set.latest" : { 
+               "licenseType" : "", 
+               "dependencies" : { 
+               }
+            }
+         }
+      }, 
+      "WeebU.My_morphs.min3" : { 
+         "licenseType" : "FC", 
+         "dependencies" : { 
+         }
+      }, 
+      "WeebU.My_morphs.min2" : { 
+         "licenseType" : "FC", 
+         "dependencies" : { 
+         }
+      }, 
+      "CosmicFTW.Clothes_CruX_Pack.min1" : { 
+         "licenseType" : "PC", 
+         "dependencies" : { 
+         }
+      }
+   }, 
+   "customOptions" : { 
+      "preloadMorphs" : "false"
+   }, 
+   "hadReferenceIssues" : "false", 
+   "referenceIssues" : [ 
+   ]
+}
