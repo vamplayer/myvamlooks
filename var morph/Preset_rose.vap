@@ -1,0 +1,113 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.0004211894"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "WeebU.Rose_Futa.1:/Custom/Atom/Person/Morphs/male/Rose - Body.vmi", 
+               "name" : "Rose - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Rose_Futa.1:/Custom/Atom/Person/Morphs/male_genitalia/Rose - Genital.vmi", 
+               "name" : "Rose - Genital", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Rose_Futa.1:/Custom/Atom/Person/Morphs/male/Rose - Head.vmi", 
+               "name" : "Rose - Head", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "WeebU.Rose_Futa.1:/Custom/Atom/Person/Morphs/female/Rose - Body.vmi", 
+               "name" : "Rose - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Rose_Futa.1:/Custom/Atom/Person/Morphs/female/Rose - Head.vmi", 
+               "name" : "Rose - Head", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

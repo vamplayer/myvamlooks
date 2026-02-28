@@ -1,0 +1,133 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "Stopper.AlternativeFuta.28:/Custom/Atom/Person/Morphs/female_genitalia/AltFuta Vagina Hide.vmi", 
+               "name" : "AltFuta Vagina Hide", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Lynn.3:/Custom/Atom/Person/Morphs/female/Lynn - Body.vmi", 
+               "name" : "Lynn - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Lynn.3:/Custom/Atom/Person/Morphs/female/Lynn - Head.vmi", 
+               "name" : "Lynn - Head", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Frsk_Length", 
+               "name" : "Frsk_Length", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Frsk_Long_Point", 
+               "name" : "Frsk_Long_Point", 
+               "value" : "0.0783217"
+            }, 
+            { 
+               "uid" : "Frsk_Scale_Point", 
+               "name" : "Frsk_Scale_Point", 
+               "value" : "0.2560239"
+            }, 
+            { 
+               "uid" : "PBMFS01", 
+               "name" : "PBMFS01", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Foreskin Fold Adjust", 
+               "name" : "Foreskin Fold Adjust", 
+               "value" : "-0.0888806"
+            }, 
+            { 
+               "uid" : "Gl_Incline", 
+               "name" : "Gl_Incline", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Length", 
+               "name" : "Gl_Length", 
+               "value" : "-2"
+            }, 
+            { 
+               "uid" : "Gl_Short", 
+               "name" : "Gl_Short", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Glans-Shaft_Split", 
+               "name" : "Glans-Shaft_Split", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Curve Up_Down", 
+               "name" : "Curve Up_Down", 
+               "value" : "0.5119754"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Stopper.AlternativeFuta.28:/Custom/Atom/Person/Morphs/male_genitalia/AltFuta Bone+Mesh Y-Offset.vmi", 
+               "name" : "AltFuta Bone+Mesh Y-Offset", 
+               "value" : "0.02"
+            }, 
+            { 
+               "uid" : "Stopper.AlternativeFuta.28:/Custom/Atom/Person/Morphs/male_genitalia/AltFuta Bone+Mesh Z-Offset.vmi", 
+               "name" : "AltFuta Bone+Mesh Z-Offset", 
+               "value" : "-0.01"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Descended.vmi", 
+               "name" : "Horse_Descended", 
+               "value" : "0.2"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Extended_.vmi", 
+               "name" : "Horse_Extended_", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Head_ScaleDown.vmi", 
+               "name" : "Horse_Head_ScaleDown", 
+               "value" : "1.128057"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Scale_Control.vmi", 
+               "name" : "Horse_Scale_Control", 
+               "value" : "0.25"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "true"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "false"
+      }
+   ]
+}

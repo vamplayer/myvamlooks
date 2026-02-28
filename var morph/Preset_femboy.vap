@@ -1,0 +1,193 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.0001041217"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Sc_Small", 
+               "name" : "Sc_Small", 
+               "value" : "0.2"
+            }, 
+            { 
+               "uid" : "Testes_Height", 
+               "name" : "Testes_Height", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Yaneks.Alphinaud_Leveilleur.1:/Custom/Atom/Person/Morphs/male_genitalia/Genitalia_Reloaded/Futa1.vmi", 
+               "name" : "Futa1", 
+               "value" : "0.2"
+            }, 
+            { 
+               "uid" : "Sh_Flat_Top", 
+               "name" : "Sh_Flat_Top", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Sh_Girth_Base", 
+               "name" : "Sh_Girth_Base", 
+               "value" : "-0.2"
+            }, 
+            { 
+               "uid" : "Chin Depth", 
+               "name" : "Chin Depth", 
+               "value" : "-0.15"
+            }, 
+            { 
+               "uid" : "Chin Width", 
+               "name" : "Chin Width", 
+               "value" : "-0.15"
+            }, 
+            { 
+               "uid" : "Chin Width Left", 
+               "name" : "Chin Width Left", 
+               "value" : "-0.15"
+            }, 
+            { 
+               "uid" : "Chin Width Right", 
+               "name" : "Chin Width Right", 
+               "value" : "-0.15"
+            }, 
+            { 
+               "uid" : "Eyelashes Length", 
+               "name" : "Eyelashes Length", 
+               "value" : "0.3"
+            }, 
+            { 
+               "uid" : "Face Depth Lower ", 
+               "name" : "Face Depth Lower ", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Jaw Angle", 
+               "name" : "Jaw Angle", 
+               "value" : "0.3"
+            }, 
+            { 
+               "uid" : "Jaw Corner Width", 
+               "name" : "Jaw Corner Width", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Jaw Corner Width Left", 
+               "name" : "Jaw Corner Width Left", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Jaw Corner Width Right", 
+               "name" : "Jaw Corner Width Right", 
+               "value" : "0.1"
+            }, 
+            { 
+               "uid" : "Jaw Curve", 
+               "name" : "Jaw Curve", 
+               "value" : "-0.2"
+            }, 
+            { 
+               "uid" : "Lip Lower Size", 
+               "name" : "Lip Lower Size", 
+               "value" : "0.2"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Yaneks.Alphinaud_Leveilleur.1:/Custom/Atom/Person/Morphs/female/Alphinaud_Leveilleur-Body.vmi", 
+               "name" : "Alphinaud_Leveilleur-Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Yaneks.Alphinaud_Leveilleur.1:/Custom/Atom/Person/Morphs/female/Alphinaud_Leveilleur-Head.vmi", 
+               "name" : "Alphinaud_Leveilleur-Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Chin Depth", 
+               "name" : "Chin Depth", 
+               "value" : "-0.1"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Mouth Width", 
+               "name" : "Mouth Width", 
+               "value" : "-0.2"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

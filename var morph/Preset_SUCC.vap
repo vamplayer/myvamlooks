@@ -1,0 +1,343 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.01598615"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "-0.5932407"
+            }, 
+            { 
+               "uid" : "PBMFS01", 
+               "name" : "PBMFS01", 
+               "value" : "1.627064"
+            }, 
+            { 
+               "uid" : "Defined Head", 
+               "name" : "Defined Head", 
+               "value" : "0.5414817"
+            }, 
+            { 
+               "uid" : "Gl_Big", 
+               "name" : "Gl_Big", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Gl_Height", 
+               "name" : "Gl_Height", 
+               "value" : "0.520797"
+            }, 
+            { 
+               "uid" : "Gl_Incline", 
+               "name" : "Gl_Incline", 
+               "value" : "-0.6953936"
+            }, 
+            { 
+               "uid" : "Gl_Length", 
+               "name" : "Gl_Length", 
+               "value" : "-2.740434"
+            }, 
+            { 
+               "uid" : "Gl_Rim", 
+               "name" : "Gl_Rim", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Slope", 
+               "name" : "Gl_Slope", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Small", 
+               "name" : "Gl_Small", 
+               "value" : "5"
+            }, 
+            { 
+               "uid" : "Glans_Tall", 
+               "name" : "Glans_Tall", 
+               "value" : "-0.2169043"
+            }, 
+            { 
+               "uid" : "Glans_Wide", 
+               "name" : "Glans_Wide", 
+               "value" : "0.1801857"
+            }, 
+            { 
+               "uid" : "Rim Thickness", 
+               "name" : "Rim Thickness", 
+               "value" : "0.357343"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Sh_Irregular", 
+               "name" : "Sh_Irregular", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Shaft_Base Thick", 
+               "name" : "Shaft_Base Thick", 
+               "value" : "0.2833056"
+            }, 
+            { 
+               "uid" : "Shaft_Spongiosum", 
+               "name" : "Shaft_Spongiosum", 
+               "value" : "0.2953138"
+            }, 
+            { 
+               "uid" : "Shaft_Spongiosum-Wide", 
+               "name" : "Shaft_Spongiosum-Wide", 
+               "value" : "0.1046648"
+            }, 
+            { 
+               "uid" : "Genital Ribbed", 
+               "name" : "Genital Ribbed", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Eyes Almond Outer", 
+               "name" : "Eyes Almond Outer", 
+               "value" : "0.08854903"
+            }, 
+            { 
+               "uid" : "Eyes Almond Outer Left", 
+               "name" : "Eyes Almond Outer Left", 
+               "value" : "0.08854903"
+            }, 
+            { 
+               "uid" : "Eyes Almond Outer Right", 
+               "name" : "Eyes Almond Outer Right", 
+               "value" : "0.08854903"
+            }, 
+            { 
+               "uid" : "Eyes Angle", 
+               "name" : "Eyes Angle", 
+               "value" : "0.0823226"
+            }, 
+            { 
+               "uid" : "Eyes Angle Left", 
+               "name" : "Eyes Angle Left", 
+               "value" : "0.0823226"
+            }, 
+            { 
+               "uid" : "Eyes Angle Right", 
+               "name" : "Eyes Angle Right", 
+               "value" : "0.0823226"
+            }, 
+            { 
+               "uid" : "Eyes Bags", 
+               "name" : "Eyes Bags", 
+               "value" : "0.3044387"
+            }, 
+            { 
+               "uid" : "Eyes Height Outer", 
+               "name" : "Eyes Height Outer", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Tongue Thickness", 
+               "name" : "Tongue Thickness", 
+               "value" : "-0.1439925"
+            }, 
+            { 
+               "uid" : "Tongue Tip Thickness", 
+               "name" : "Tongue Tip Thickness", 
+               "value" : "0.2592901"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.2508353"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.1356058"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.1982957"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Corpus+.vmi", 
+               "name" : "Gens - Corpus+", 
+               "value" : "0.1962549"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Gooch + Hanging.vmi", 
+               "name" : "Gens - Gooch + Hanging", 
+               "value" : "0.8374089"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Lumpy.vmi", 
+               "name" : "Gens - Lumpy", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Pouch Adhered Alt.vmi", 
+               "name" : "Gens - Pouch Adhered Alt", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Tip Skin Gap.vmi", 
+               "name" : "Gens - Tip Skin Gap", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Up Shaft Size.vmi", 
+               "name" : "Gens - Up Shaft Size", 
+               "value" : "0.6233454"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Descended.vmi", 
+               "name" : "Horse_Descended", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Descended.vmi", 
+               "name" : "Horse_Descended", 
+               "value" : "-0.4861597"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Extended_.vmi", 
+               "name" : "Horse_Extended_", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Head_ScaleDown.vmi", 
+               "name" : "Horse_Head_ScaleDown", 
+               "value" : "0.6454885"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Scale_Control.vmi", 
+               "name" : "Horse_Scale_Control", 
+               "value" : "0.431281"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Eyes Closed (REN)", 
+               "name" : "Eyes Closed (REN)", 
+               "value" : "0.007054226"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Abs Definition", 
+               "name" : "Abs Definition", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Abs Muscle", 
+               "name" : "Abs Muscle", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.1626876"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.06138027"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.1693099"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female/TenStrip/Thicc.vmi", 
+               "name" : "Thicc", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Amy_Futa_Demon.2:/Custom/Atom/Person/Morphs/female/Amy Demon base-1644fd0a.vmi", 
+               "name" : "Amy Demon base", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

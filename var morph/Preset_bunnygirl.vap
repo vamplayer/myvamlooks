@@ -1,0 +1,391 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Required/ddaamm/AUTO/Glute crease.vmi", 
+               "name" : "Glute crease", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/G3F_Glutes Shape 06.vmi", 
+               "name" : "Glutes Shape 06", 
+               "value" : "0.6088003"
+            }, 
+            { 
+               "uid" : "Yahoi.yunji.2:/Custom/Atom/Person/Morphs/female/yahoi_yunji-Head-2024-06-5--22_52_44.800.vmi", 
+               "name" : "yahoi_yunji-Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "AshAuryn.AshAuryn's_101_Female_Genitalia_Morphs.1:/Custom/Atom/Person/Morphs/female_genitalia/ASHAURYN OFFICIAL/TOOLS/MORPHS/GENITALIA SCULPTING/AAX Clitoris Erect More.vmi", 
+               "name" : "AAX Clitoris Erect More", 
+               "value" : "0.3848531"
+            }, 
+            { 
+               "uid" : "AshAuryn.AshAuryn's_101_Female_Genitalia_Morphs.1:/Custom/Atom/Person/Morphs/female_genitalia/ASHAURYN OFFICIAL/TOOLS/MORPHS/GENITALIA SCULPTING/AAX Minora Shape.vmi", 
+               "name" : "AAX Minora Shape", 
+               "value" : "0.2248756"
+            }, 
+            { 
+               "uid" : "AWWalker.AWWalker_MorphPak_03.1:/Custom/Atom/Person/Morphs/female_genitalia/AWWalker/AWWalker_MorphPak_03/AWW_GEN_FULL_PUFF_03.vmi", 
+               "name" : "AWW_GEN_FULL_PUFF_03", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWWalker_GEN_Morphs1.0/AWW_Puffier.vmi", 
+               "name" : "AWW_Puffier", 
+               "value" : "0.3199482"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWWalker_GEN_Morphs1.0/AWW_PuffyMajora_1.vmi", 
+               "name" : "AWW_PuffyMajora_1", 
+               "value" : "-0.3626058"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWWalker_GEN_Morphs1.0/AWW_SwolenClit_1.vmi", 
+               "name" : "AWW_SwolenClit_1", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "GilgameshVR.Catherine.4:/Custom/Atom/Person/Morphs/female/Catherine - Body.vmi", 
+               "name" : "Catherine - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Hip_Reloaded-Lite/Glute move inside left.vmi", 
+               "name" : "Glute move inside left", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Hip_Reloaded-Lite/Glute move inside right.vmi", 
+               "name" : "Glute move inside right", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Hip_Reloaded-Lite/Glute tighter.vmi", 
+               "name" : "Glute tighter", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Hip_Reloaded-Lite/Glute tighter.vmi", 
+               "name" : "Glute tighter", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Legs&Feet_Reloaded-Lite/Calf full.vmi", 
+               "name" : "Calf full", 
+               "value" : "0.3101861"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/Arm Thickness.vmi", 
+               "name" : "Arm Thickness", 
+               "value" : "-0.5003104"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/kemenate/f_armpits_indent_comp.vmi", 
+               "name" : "Armpits Indent", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/f_ellbow_indent_inner.vmi", 
+               "name" : "Elbows Indent Inner", 
+               "value" : "0.4098025"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/kemenate/f_wrist_definition.vmi", 
+               "name" : "Wrist Definition", 
+               "value" : "0.66"
+            }, 
+            { 
+               "uid" : "Back Definition .", 
+               "name" : "Back Definition .", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Sacral Dimples", 
+               "name" : "Sacral Dimples", 
+               "value" : "0.6201661"
+            }, 
+            { 
+               "uid" : "SupaRioAmateur.Neck_Fix.1:/Custom/Atom/Person/Morphs/female/SupaRioAmateur/NeckFix Head Pos (MM) Vertical.vmi", 
+               "name" : "NeckFix Head Pos (MM) Vertical", 
+               "value" : "0.8958588"
+            }, 
+            { 
+               "uid" : "Areolae Diameter", 
+               "name" : "Areolae Diameter", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Areolae Perk", 
+               "name" : "Areolae Perk", 
+               "value" : "0.3961906"
+            }, 
+            { 
+               "uid" : "Breast Large", 
+               "name" : "Breast Large", 
+               "value" : "0.1218485"
+            }, 
+            { 
+               "uid" : "Breast Pointed", 
+               "name" : "Breast Pointed", 
+               "value" : "0.517663"
+            }, 
+            { 
+               "uid" : "Breast Top Curve1", 
+               "name" : "Breast Top Curve1", 
+               "value" : "-0.2292579"
+            }, 
+            { 
+               "uid" : "Nipple Diameter", 
+               "name" : "Nipple Diameter", 
+               "value" : "0.5431242"
+            }, 
+            { 
+               "uid" : "Nipple Size", 
+               "name" : "Nipple Size", 
+               "value" : "0.4061838"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/kemenate/f_nipples_bulb.vmi", 
+               "name" : "Nipples Bulbous", 
+               "value" : "0.5185641"
+            }, 
+            { 
+               "uid" : "Nipples Diameter", 
+               "name" : "Nipples Diameter", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gen_Innie", 
+               "name" : "Gen_Innie", 
+               "value" : "-0.0002196814"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWW_Legacy/Labia majora-relaxation.vmi", 
+               "name" : "Labia majora-relaxation", 
+               "value" : "-0.0004940184"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWWalker_GEN_Morphs1.0/Labia minora-exstrophy.vmi", 
+               "name" : "Labia minora-exstrophy", 
+               "value" : "-0.0002196814"
+            }, 
+            { 
+               "uid" : "AWWalker.AWW_GenMorphResources.9:/Custom/Atom/Person/Morphs/female_genitalia/data/3feetwolf/New Genitalia For Victoria 6/Genitalia-default/Morphs/AWWALKER/AWWalker_GEN_Morphs1.0/Labia minora-size.vmi", 
+               "name" : "Labia minora-size", 
+               "value" : "0.0002196814"
+            }, 
+            { 
+               "uid" : "Labia minora-style1", 
+               "name" : "Labia minora-style1", 
+               "value" : "0.0002196814"
+            }, 
+            { 
+               "uid" : "Teeth Lower Jaw Move Up-Down", 
+               "name" : "Teeth Lower Jaw Move Up-Down", 
+               "value" : "-0.6932206"
+            }, 
+            { 
+               "uid" : "Teeth Upper Jaw Move Up-Down", 
+               "name" : "Teeth Upper Jaw Move Up-Down", 
+               "value" : "0.1599787"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/Bubble Butt.vmi", 
+               "name" : "Bubble Butt", 
+               "value" : "0.2023036"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Required/ddaamm/AUTO/G3F_Buttocks Muscular.vmi", 
+               "name" : "Buttocks Muscular", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Glute Crease", 
+               "name" : "Glute Crease", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Glute Crease Left", 
+               "name" : "Glute Crease Left", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Glute Crease Right", 
+               "name" : "Glute Crease Right", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "HipSmooth", 
+               "name" : "HipSmooth", 
+               "value" : "1.109198"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/kemenate/Gracilis Stretch.vmi", 
+               "name" : "Gracilis Stretch", 
+               "value" : "0.75884"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/f_hamstring.vmi", 
+               "name" : "Hamstring", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Knee Bones Size", 
+               "name" : "Knee Bones Size", 
+               "value" : "0.2842415"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_knee_cap.vmi", 
+               "name" : "Knee Cap", 
+               "value" : "0.4015588"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/f_shin_bone.vmi", 
+               "name" : "Shin Bone", 
+               "value" : "0.6913896"
+            }, 
+            { 
+               "uid" : "Thighs Tone", 
+               "name" : "Thighs Tone", 
+               "value" : "0.705494"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/vamdazzler/vamdazzler-calves-slim.vmi", 
+               "name" : "VD Calves Slim", 
+               "value" : "0.412219"
+            }, 
+            { 
+               "uid" : "NeckFemaleCombo", 
+               "name" : "NeckFemaleCombo", 
+               "value" : "0.4749696"
+            }, 
+            { 
+               "uid" : "Abs Definition", 
+               "name" : "Abs Definition", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/AUTO/Belly Rotate.vmi", 
+               "name" : "Belly Rotate", 
+               "value" : "-0.4044101"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Button Depth.vmi", 
+               "name" : "Button Depth", 
+               "value" : "0.257571"
+            }, 
+            { 
+               "uid" : "Linea Alba Depth", 
+               "name" : "Linea Alba Depth", 
+               "value" : "0.2978007"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0.5135429"
+            }, 
+            { 
+               "uid" : "Rectus Outer Detail", 
+               "name" : "Rectus Outer Detail", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Stomach Shape 1", 
+               "name" : "Stomach Shape 1", 
+               "value" : "0.5021422"
+            }, 
+            { 
+               "uid" : "Waist Narrow Lower", 
+               "name" : "Waist Narrow Lower", 
+               "value" : "0.3149395"
+            }, 
+            { 
+               "uid" : "Waist Width", 
+               "name" : "Waist Width", 
+               "value" : "-0.5865361"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/WaistBellyInOut.vmi", 
+               "name" : "WaistBellyInOut", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WaistHipDefine", 
+               "name" : "WaistHipDefine", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WaistHourglass", 
+               "name" : "WaistHourglass", 
+               "value" : "0.4798911"
+            }, 
+            { 
+               "uid" : "TToby.foot_morph_collection.1:/Custom/Atom/Person/Morphs/female/TimelordToby/TTFeet/TTFootTop.vmi", 
+               "name" : "TTFootTop", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "TToby.foot_morph_collection.1:/Custom/Atom/Person/Morphs/female/TimelordToby/TTFeet/TTHeelsOut.vmi", 
+               "name" : "TTHeelsOut", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "TToby.foot_morph_collection.1:/Custom/Atom/Person/Morphs/female/TimelordToby/TTFeet/TTNiceFeet4.vmi", 
+               "name" : "TTNiceFeet4", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.001326004"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.3991399"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.0006451071"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/dmd/pCTRLlFingersGrasp.vmi", 
+               "name" : "Left Fingers Grasp", 
+               "value" : "-0.005022892"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/dmd/pCTRLlThumbGrasp.vmi", 
+               "name" : "Left Thumb Grasp", 
+               "value" : "-0.005022892"
+            }, 
+            { 
+               "uid" : "Kaelye.Suri.1:/Custom/Atom/Person/Morphs/female/Required/TenStrip_Expressions/Enjoying It.vmi", 
+               "name" : "Enjoying It", 
+               "value" : "0.1989103"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/female/Thicc XL-58a3d891.vmi", 
+               "name" : "Thicc XL", 
+               "value" : "0.1858478"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "false"
+      }
+   ]
+}

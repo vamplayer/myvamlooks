@@ -1,0 +1,203 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "5.348715E-05"
+            }, 
+            { 
+               "uid" : "Body Size", 
+               "name" : "Body Size", 
+               "value" : "-0.05000003"
+            }, 
+            { 
+               "uid" : "Fitness Details", 
+               "name" : "Fitness Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Hip Bone Crest", 
+               "name" : "Hip Bone Crest", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Hip Size", 
+               "name" : "Hip Size", 
+               "value" : "0.2210676"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.3870462"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.08744057"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.2344196"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Wolverine333.LAUREN_2.1:/Custom/Atom/Person/Morphs/female/ClothingEffect_Reloaded-Lite/Waist - WaistAdjustShrinkFatten01.vmi", 
+               "name" : "Waist - WaistAdjustShrinkFatten01", 
+               "value" : "-0.2571695"
+            }, 
+            { 
+               "uid" : "Giallone.Amia_FUTA.2:/Custom/Atom/Person/Morphs/female/Ascorad - Amia - Head.vmi", 
+               "name" : "Ascorad - Amia - Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "vecterror._MorphCollection_.6:/Custom/Atom/Person/Morphs/female/vecterror/Shoulder Height.vmi", 
+               "name" : "Shoulder Height", 
+               "value" : "0.3431763"
+            }, 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/Shoulder Height.vmi", 
+               "name" : "Shoulder Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Daisy Body (REN)", 
+               "name" : "Daisy Body (REN)", 
+               "value" : "0.1401768"
+            }, 
+            { 
+               "uid" : "Wolverine333.MIA.1:/Custom/Atom/Person/Morphs/female/Morphs Mega Pack/FBMHeight.vmi", 
+               "name" : "Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Height", 
+               "name" : "Height", 
+               "value" : "-0.1886744"
+            }, 
+            { 
+               "uid" : "Breast Sag2", 
+               "name" : "Breast Sag2", 
+               "value" : "0.7"
+            }, 
+            { 
+               "uid" : "Breast Small", 
+               "name" : "Breast Small", 
+               "value" : "0.7"
+            }, 
+            { 
+               "uid" : "Breasts Small", 
+               "name" : "Breasts Small", 
+               "value" : "0.7"
+            }, 
+            { 
+               "uid" : "BreastsCrease", 
+               "name" : "BreastsCrease", 
+               "value" : "-0.2348337"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "SupaRioAmateur.Breasts_Morphs_Assorted.1:/Custom/Atom/Person/Morphs/female/SupaRioAmateur/BreastsExperimental/Clothed/GoldChain/GoldChainMorphs Waist.vmi", 
+               "name" : "GoldChainMorphs Waist", 
+               "value" : "0.004161038"
+            }, 
+            { 
+               "uid" : "Waist Narrow Lower", 
+               "name" : "Waist Narrow Lower", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Waist Width", 
+               "name" : "Waist Width", 
+               "value" : "0.3177651"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.03133126"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.3703614"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/female/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.02222897"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/female/Thicc XL-58a3d891.vmi", 
+               "name" : "Thicc XL", 
+               "value" : "0.05536076"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

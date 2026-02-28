@@ -1,0 +1,156 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "liulaoye.KULUO_3_0.2:/Custom/Atom/Person/Morphs/female/davane/AFVR/dilation.vmi", 
+               "name" : "PupilDilation", 
+               "value" : "-0.9162651"
+            }, 
+            { 
+               "uid" : "vecterror._MorphCollection_.6:/Custom/Atom/Person/Morphs/female/vecterror/HS Head Width.vmi", 
+               "name" : "HS Head Width", 
+               "value" : "0.08532846"
+            }, 
+            { 
+               "uid" : "liulaoye.KULUO_3_0.2:/Custom/Atom/Person/Morphs/female/KULUOZZ - Body.vmi", 
+               "name" : "KULUOZZ - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "liulaoye.KULUO_3_0.2:/Custom/Atom/Person/Morphs/female/KULUOZZ - Head.vmi", 
+               "name" : "KULUOZZ - Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "liulaoye.KULUO_3_0.2:/Custom/Atom/Person/Morphs/female/AUTO/Nose center wide.vmi", 
+               "name" : "Nose center wide", 
+               "value" : "0.075"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-relaxation", 
+               "name" : "Labia majora-relaxation", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/eyes outer fold height.vmi", 
+               "name" : "Crows Feet height", 
+               "value" : "0.1066494"
+            }, 
+            { 
+               "uid" : "Wolverine333.MIA.1:/Custom/Atom/Person/Morphs/female/Pack/EyeAreaSmooth.vmi", 
+               "name" : "EyeAreaSmooth", 
+               "value" : "-0.1492882"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "LipUpPuffy", 
+               "name" : "LipUpPuffy", 
+               "value" : "-0.490569"
+            }, 
+            { 
+               "uid" : "Cranium Height", 
+               "name" : "Cranium Height", 
+               "value" : "0.01916709"
+            }, 
+            { 
+               "uid" : "Cranium Width", 
+               "name" : "Cranium Width", 
+               "value" : "0.479921"
+            }, 
+            { 
+               "uid" : "Forehead Height", 
+               "name" : "Forehead Height", 
+               "value" : "-0.128"
+            }, 
+            { 
+               "uid" : "Temples Define", 
+               "name" : "Temples Define", 
+               "value" : "0.6266257"
+            }, 
+            { 
+               "uid" : "Temples Define Left", 
+               "name" : "Temples Define Left", 
+               "value" : "0.6266257"
+            }, 
+            { 
+               "uid" : "Temples Define Right", 
+               "name" : "Temples Define Right", 
+               "value" : "0.6266257"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Neck Length", 
+               "name" : "Neck Length", 
+               "value" : "-0.7465111"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "LLF.Hush_Fortnite_4_skins.2:/Custom/Atom/Person/Morphs/female/pCTRLlFingersFist.vmi", 
+               "name" : "Left Fingers Fist", 
+               "value" : "0.2153644"
+            }, 
+            { 
+               "uid" : "LLF.Hush_Fortnite_4_skins.2:/Custom/Atom/Person/Morphs/female/pCTRLlThumbFist.vmi", 
+               "name" : "Left Thumb Fist", 
+               "value" : "0.2153644"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "false"
+      }
+   ]
+}

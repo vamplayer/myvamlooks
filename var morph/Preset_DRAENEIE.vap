@@ -1,0 +1,818 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/HFS_Races_HoovedLegs.vmi", 
+               "name" : "HoovedLegs", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/HFS_Shapes_Legs01.vmi", 
+               "name" : "Legs01", 
+               "value" : "0.5750346"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/HFS_Races_ElfEars02.vmi", 
+               "name" : "ElfEars02", 
+               "value" : "0.4763507"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/PHMTeethVampireBottom.vmi", 
+               "name" : "Teeth Vampire Bottom", 
+               "value" : "0.2515335"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/PHMTeethVampireTop.vmi", 
+               "name" : "Teeth Vampire Top", 
+               "value" : "0.5412995"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/HFS_Races_ElfFace.vmi", 
+               "name" : "ElfFace", 
+               "value" : "0.4707835"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Shoulder small.vmi", 
+               "name" : "Shoulder small", 
+               "value" : "0.1202549"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Deep Eyelid.vmi", 
+               "name" : "Deep Eyelid", 
+               "value" : "0.1999327"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Hip line up.vmi", 
+               "name" : "Hip line up", 
+               "value" : "-0.7196115"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Ankles Thickness.vmi", 
+               "name" : "Ankles Thickness", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Calf Type1.vmi", 
+               "name" : "Calf Type1", 
+               "value" : "0.2103655"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Thigh Apart.vmi", 
+               "name" : "Thigh Apart", 
+               "value" : "0.2960753"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Thigh Inner2.vmi", 
+               "name" : "Thigh Inner2", 
+               "value" : "0.9076058"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Thigh Smoother.vmi", 
+               "name" : "Thigh Smoother", 
+               "value" : "0.241173"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Thigh Thickness.vmi", 
+               "name" : "Thigh Thickness", 
+               "value" : "0.2890002"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/ankle detail.vmi", 
+               "name" : "ankle detail", 
+               "value" : "1.295559"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Calf full.vmi", 
+               "name" : "Calf full", 
+               "value" : "-0.6708641"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Thigh wide.vmi", 
+               "name" : "Thigh wide", 
+               "value" : "0.1122665"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Ridge Width.vmi", 
+               "name" : "Ridge Width", 
+               "value" : "-0.4116902"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/FaceShape1.vmi", 
+               "name" : "FaceShape1", 
+               "value" : "0.305781"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male/Extra/Reloaded light/SetsukaHead.vmi", 
+               "name" : "Setsuka Head", 
+               "value" : "0.2469901"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/RG InOut.vmi", 
+               "name" : "RG InOut", 
+               "value" : "0.3229312"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/RG Side2Side.vmi", 
+               "name" : "RG Side2Side", 
+               "value" : "0.3022633"
+            }, 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.00716801"
+            }, 
+            { 
+               "uid" : "Body Tone", 
+               "name" : "Body Tone", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Fitness Size", 
+               "name" : "Fitness Size", 
+               "value" : "0.6281447"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/GuhzCoituz_Body.vmi", 
+               "name" : "GuhzCoituz_Body", 
+               "value" : "0.794482"
+            }, 
+            { 
+               "uid" : "Height", 
+               "name" : "Height", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Areolae Depth", 
+               "name" : "Areolae Depth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Areolae Diameter", 
+               "name" : "Areolae Diameter", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Nipples Diameter", 
+               "name" : "Nipples Diameter", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nipples Large", 
+               "name" : "Nipples Large", 
+               "value" : "0.2117488"
+            }, 
+            { 
+               "uid" : "Torso Fitness", 
+               "name" : "Torso Fitness", 
+               "value" : "0.6619692"
+            }, 
+            { 
+               "uid" : "Feet Arch", 
+               "name" : "Feet Arch", 
+               "value" : "0.6758689"
+            }, 
+            { 
+               "uid" : "Foot Length", 
+               "name" : "Foot Length", 
+               "value" : "0.9384165"
+            }, 
+            { 
+               "uid" : "Foot Length Left", 
+               "name" : "Foot Length Left", 
+               "value" : "0.9384165"
+            }, 
+            { 
+               "uid" : "Foot Length Right", 
+               "name" : "Foot Length Right", 
+               "value" : "0.9384165"
+            }, 
+            { 
+               "uid" : "Frsk_Globe", 
+               "name" : "Frsk_Globe", 
+               "value" : "2.756473"
+            }, 
+            { 
+               "uid" : "Frsk_Length", 
+               "name" : "Frsk_Length", 
+               "value" : "5"
+            }, 
+            { 
+               "uid" : "Frsk_Scale_Point", 
+               "name" : "Frsk_Scale_Point", 
+               "value" : "4.594121"
+            }, 
+            { 
+               "uid" : "Frsk_Up_Point", 
+               "name" : "Frsk_Up_Point", 
+               "value" : "0.9589565"
+            }, 
+            { 
+               "uid" : "Gl_Big", 
+               "name" : "Gl_Big", 
+               "value" : "3.675297"
+            }, 
+            { 
+               "uid" : "Gl_Short", 
+               "name" : "Gl_Short", 
+               "value" : "10"
+            }, 
+            { 
+               "uid" : "large nuts", 
+               "name" : "large nuts", 
+               "value" : "0.996278"
+            }, 
+            { 
+               "uid" : "Erect", 
+               "name" : "Erect", 
+               "value" : "0.02584997"
+            }, 
+            { 
+               "uid" : "Ark1F1.Komiko_Look_+_Futa.1:/Custom/Atom/Person/Morphs/male_genitalia/AUTO/Futaglans.vmi", 
+               "name" : "Futaglans", 
+               "value" : "-0.7185804"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "3.808917"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/extra/Penis Supersize.vmi", 
+               "name" : "Penis Supersize", 
+               "value" : "0.2"
+            }, 
+            { 
+               "uid" : "Sh_C_Spongiosum", 
+               "name" : "Sh_C_Spongiosum", 
+               "value" : "4.594121"
+            }, 
+            { 
+               "uid" : "Sh_Girth", 
+               "name" : "Sh_Girth", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Nails Length", 
+               "name" : "Nails Length", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size", 
+               "name" : "Cheek Bones Size", 
+               "value" : "-0.2469929"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size Left", 
+               "name" : "Cheek Bones Size Left", 
+               "value" : "-0.2469929"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size Right", 
+               "name" : "Cheek Bones Size Right", 
+               "value" : "-0.2469929"
+            }, 
+            { 
+               "uid" : "Cheeks Depth", 
+               "name" : "Cheeks Depth", 
+               "value" : "0.2499312"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Left", 
+               "name" : "Cheeks Depth Left", 
+               "value" : "0.2499312"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Right", 
+               "name" : "Cheeks Depth Right", 
+               "value" : "0.2499312"
+            }, 
+            { 
+               "uid" : "Cheeks Dimple Crease", 
+               "name" : "Cheeks Dimple Crease", 
+               "value" : "0.5175097"
+            }, 
+            { 
+               "uid" : "Cheeks Dimple Crease Left", 
+               "name" : "Cheeks Dimple Crease Left", 
+               "value" : "0.5175097"
+            }, 
+            { 
+               "uid" : "Cheeks Dimple Crease Right", 
+               "name" : "Cheeks Dimple Crease Right", 
+               "value" : "0.5175097"
+            }, 
+            { 
+               "uid" : "Cheeks Sink", 
+               "name" : "Cheeks Sink", 
+               "value" : "-0.2382006"
+            }, 
+            { 
+               "uid" : "Cheeks Sink Left", 
+               "name" : "Cheeks Sink Left", 
+               "value" : "-0.2382006"
+            }, 
+            { 
+               "uid" : "Cheeks Sink Right", 
+               "name" : "Cheeks Sink Right", 
+               "value" : "-0.2382006"
+            }, 
+            { 
+               "uid" : "Chin Depth", 
+               "name" : "Chin Depth", 
+               "value" : "0.670421"
+            }, 
+            { 
+               "uid" : "Chin Width", 
+               "name" : "Chin Width", 
+               "value" : "0.5660109"
+            }, 
+            { 
+               "uid" : "Chin Width Left", 
+               "name" : "Chin Width Left", 
+               "value" : "0.5660109"
+            }, 
+            { 
+               "uid" : "Chin Width Right", 
+               "name" : "Chin Width Right", 
+               "value" : "0.5660109"
+            }, 
+            { 
+               "uid" : "Ears Angle", 
+               "name" : "Ears Angle", 
+               "value" : "-0.7645228"
+            }, 
+            { 
+               "uid" : "Ears Angle Left", 
+               "name" : "Ears Angle Left", 
+               "value" : "-0.7645228"
+            }, 
+            { 
+               "uid" : "Ears Angle Right", 
+               "name" : "Ears Angle Right", 
+               "value" : "-0.7645228"
+            }, 
+            { 
+               "uid" : "Ears Elf", 
+               "name" : "Ears Elf", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner", 
+               "name" : "Eyes Almond Inner", 
+               "value" : "0.8468484"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner Left", 
+               "name" : "Eyes Almond Inner Left", 
+               "value" : "0.8468484"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner Right", 
+               "name" : "Eyes Almond Inner Right", 
+               "value" : "0.8468484"
+            }, 
+            { 
+               "uid" : "Eyes Angle", 
+               "name" : "Eyes Angle", 
+               "value" : "-0.5880169"
+            }, 
+            { 
+               "uid" : "Eyes Angle Left", 
+               "name" : "Eyes Angle Left", 
+               "value" : "-0.5880169"
+            }, 
+            { 
+               "uid" : "Eyes Angle Right", 
+               "name" : "Eyes Angle Right", 
+               "value" : "-0.5880169"
+            }, 
+            { 
+               "uid" : "Eyes Width", 
+               "name" : "Eyes Width", 
+               "value" : "-0.09409058"
+            }, 
+            { 
+               "uid" : "Eyes Width Left", 
+               "name" : "Eyes Width Left", 
+               "value" : "-0.09409058"
+            }, 
+            { 
+               "uid" : "Eyes Width Right", 
+               "name" : "Eyes Width Right", 
+               "value" : "-0.09409058"
+            }, 
+            { 
+               "uid" : "Pupils Dilate", 
+               "name" : "Pupils Dilate", 
+               "value" : "-1.79978"
+            }, 
+            { 
+               "uid" : "Pupils Slit", 
+               "name" : "Pupils Slit", 
+               "value" : "0.8115488"
+            }, 
+            { 
+               "uid" : "Face Center Depth", 
+               "name" : "Face Center Depth", 
+               "value" : "0.1764235"
+            }, 
+            { 
+               "uid" : "Jaw Height", 
+               "name" : "Jaw Height", 
+               "value" : "-0.2704958"
+            }, 
+            { 
+               "uid" : "Jaw Height Left", 
+               "name" : "Jaw Height Left", 
+               "value" : "-0.2704958"
+            }, 
+            { 
+               "uid" : "Jaw Height Right", 
+               "name" : "Jaw Height Right", 
+               "value" : "-0.2704958"
+            }, 
+            { 
+               "uid" : "Tongue Thickness", 
+               "name" : "Tongue Thickness", 
+               "value" : "-0.2293679"
+            }, 
+            { 
+               "uid" : "Tongue Tip Thickness", 
+               "name" : "Tongue Tip Thickness", 
+               "value" : "-0.3998668"
+            }, 
+            { 
+               "uid" : "Lip Lower Size", 
+               "name" : "Lip Lower Size", 
+               "value" : "0.09264059"
+            }, 
+            { 
+               "uid" : "Lip Upper Depth", 
+               "name" : "Lip Upper Depth", 
+               "value" : "0.1411397"
+            }, 
+            { 
+               "uid" : "Lip Upper Size", 
+               "name" : "Lip Upper Size", 
+               "value" : "0.1028993"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/LipLoPuffy.vmi", 
+               "name" : "LipLoPuffy", 
+               "value" : "0.7645119"
+            }, 
+            { 
+               "uid" : "Mouth Curves", 
+               "name" : "Mouth Curves", 
+               "value" : "0.05880463"
+            }, 
+            { 
+               "uid" : "Mouth Depth", 
+               "name" : "Mouth Depth", 
+               "value" : "0.03528202"
+            }, 
+            { 
+               "uid" : "Mouth Size", 
+               "name" : "Mouth Size", 
+               "value" : "0.1940628"
+            }, 
+            { 
+               "uid" : "Mouth Width", 
+               "name" : "Mouth Width", 
+               "value" : "0.1235222"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/MouthShape11.vmi", 
+               "name" : "MouthShape11", 
+               "value" : "-0.05882472"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/MouthShape12.vmi", 
+               "name" : "MouthShape12", 
+               "value" : "0.6233829"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/Upper Lip Puffy.vmi", 
+               "name" : "Upper Lip Puffy", 
+               "value" : "0.1528535"
+            }, 
+            { 
+               "uid" : "Nose Bridge Depth", 
+               "name" : "Nose Bridge Depth", 
+               "value" : "-0.2234758"
+            }, 
+            { 
+               "uid" : "Nose Bridge Height", 
+               "name" : "Nose Bridge Height", 
+               "value" : "0.2469798"
+            }, 
+            { 
+               "uid" : "Nose Bridge Slope", 
+               "name" : "Nose Bridge Slope", 
+               "value" : "0.2822682"
+            }, 
+            { 
+               "uid" : "Nose Septum Width", 
+               "name" : "Nose Septum Width", 
+               "value" : "0.4322445"
+            }, 
+            { 
+               "uid" : "Nose Tip Round", 
+               "name" : "Nose Tip Round", 
+               "value" : "-0.6704414"
+            }, 
+            { 
+               "uid" : "Nostrils Flesh Size", 
+               "name" : "Nostrils Flesh Size", 
+               "value" : "-0.2352445"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Glutes Lower Depth", 
+               "name" : "Glutes Lower Depth", 
+               "value" : "-0.3033732"
+            }, 
+            { 
+               "uid" : "Glutes Upper Depth", 
+               "name" : "Glutes Upper Depth", 
+               "value" : "-0.6065307"
+            }, 
+            { 
+               "uid" : "Glutes Width", 
+               "name" : "Glutes Width", 
+               "value" : "-0.5737162"
+            }, 
+            { 
+               "uid" : "Legs Length", 
+               "name" : "Legs Length", 
+               "value" : "0.2492433"
+            }, 
+            { 
+               "uid" : "Shins Size", 
+               "name" : "Shins Size", 
+               "value" : "-0.1720457"
+            }, 
+            { 
+               "uid" : "Thighs Tone", 
+               "name" : "Thighs Tone", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/male/AUTO/vamdazzler-thigh-slim.vmi", 
+               "name" : "VD Thigh Slim", 
+               "value" : "0.9569644"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Navel Depth", 
+               "name" : "Navel Depth", 
+               "value" : "0.3689388"
+            }, 
+            { 
+               "uid" : "Navel Vertical", 
+               "name" : "Navel Vertical", 
+               "value" : "0.6606967"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.5:/Custom/Atom/Person/Morphs/male/Breath1.vmi", 
+               "name" : "Breath1", 
+               "value" : "0.228866"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male/Breath1.vmi", 
+               "name" : "Breath1", 
+               "value" : "0.2999156"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.5:/Custom/Atom/Person/Morphs/male/Extra/TenStrip_Expressions/Exaggerating.vmi", 
+               "name" : "Exaggerating", 
+               "value" : "0.02756051"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.5:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Center Bulge.vmi", 
+               "name" : "Gens - Center Bulge", 
+               "value" : "-1.234554"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.5:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Descended.vmi", 
+               "name" : "Horse_Descended", 
+               "value" : "0.2502846"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Extended_.vmi", 
+               "name" : "Horse_Extended_", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/horse/Horse_Head_ScaleDown.vmi", 
+               "name" : "Horse_Head_ScaleDown", 
+               "value" : "0.692826"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Body Tone", 
+               "name" : "Body Tone", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Esingex.So_Young.1:/Custom/Atom/Person/Morphs/female/Morphs Mega Pack/FBMBodybuilderDetails.vmi", 
+               "name" : "Bodybuilder Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Voluptuous", 
+               "name" : "Voluptuous", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Breasts Natural", 
+               "name" : "Breasts Natural", 
+               "value" : "-0.25"
+            }, 
+            { 
+               "uid" : "Breasts Shape 02", 
+               "name" : "Breasts Shape 02", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Wolverine333.LAUREN_4.1:/Custom/Atom/Person/Morphs/female/Morphs Mega Pack/PHMEyesIrisSize.vmi", 
+               "name" : "Eyes Iris Size", 
+               "value" : "3.295282"
+            }, 
+            { 
+               "uid" : "Wolverine333.LAUREN_4.1:/Custom/Atom/Person/Morphs/female/Morphs Mega Pack/CTRLEyesSize.vmi", 
+               "name" : "Eyes Size", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "Eyes Size Left", 
+               "name" : "Eyes Size Left", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "Eyes Size Right", 
+               "name" : "Eyes Size Right", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "EyeShape5", 
+               "name" : "EyeShape5", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "FaceShapeFemale", 
+               "name" : "FaceShapeFemale", 
+               "value" : "0.3370432"
+            }, 
+            { 
+               "uid" : "FaceShapeRound2", 
+               "name" : "FaceShapeRound2", 
+               "value" : "0.1918502"
+            }, 
+            { 
+               "uid" : "FaceShapeSquare", 
+               "name" : "FaceShapeSquare", 
+               "value" : "-0.350015"
+            }, 
+            { 
+               "uid" : "LowerFaceSmoothRound", 
+               "name" : "LowerFaceSmoothRound", 
+               "value" : "-0.4059504"
+            }, 
+            { 
+               "uid" : "Young4", 
+               "name" : "Young4", 
+               "value" : "0.1635767"
+            }, 
+            { 
+               "uid" : "Young5", 
+               "name" : "Young5", 
+               "value" : "-0.3468657"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Esingex.So_Young.1:/Custom/Atom/Person/Morphs/female/Nose A.vmi", 
+               "name" : "Nose A", 
+               "value" : "-0.7130604"
+            }, 
+            { 
+               "uid" : "Wolverine333.LAUREN_2.1:/Custom/Atom/Person/Morphs/female/Morphs Mega Pack/PHMNoseTipDepth.vmi", 
+               "name" : "Nose Tip Depth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Nose Tip Height", 
+               "name" : "Nose Tip Height", 
+               "value" : "-0.169491"
+            }, 
+            { 
+               "uid" : "Ana Sculpt 2", 
+               "name" : "Ana Sculpt 2", 
+               "value" : "-0.334523"
+            }, 
+            { 
+               "uid" : "Aneta", 
+               "name" : "Aneta", 
+               "value" : "0.02509441"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/female/AUTO/brittany.vmi", 
+               "name" : "brittany", 
+               "value" : "0.2337668"
+            }, 
+            { 
+               "uid" : "Lucille Head", 
+               "name" : "Lucille Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "HipSmooth", 
+               "name" : "HipSmooth", 
+               "value" : "0.6111004"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Shins Size", 
+               "name" : "Shins Size", 
+               "value" : "-0.124334"
+            }, 
+            { 
+               "uid" : "Thighs Size", 
+               "name" : "Thighs Size", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Torso Fitness", 
+               "name" : "Torso Fitness", 
+               "value" : "0.122349"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "ado5168.Arlene.3:/Custom/Atom/Person/Morphs/female/AUTO/G1_PHMConcentrated.vmi", 
+               "name" : "Concentrate", 
+               "value" : "0.1661196"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

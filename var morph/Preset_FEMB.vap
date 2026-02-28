@@ -1,0 +1,163 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "BigCsar.Dicklicious.12:/Custom/Atom/Person/Morphs/male_genitalia/BigCsar - Dickliciuos/Futa Balls - Genital.vmi", 
+               "name" : "Futa Balls - Genital", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "BigCsar.My_Morphs.29:/Custom/Atom/Person/Morphs/male/BigCsar Morphs/Female Base VaM - Body.vmi", 
+               "name" : "Female Base VaM - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BigCsar.My_Morphs.29:/Custom/Atom/Person/Morphs/male/BigCsar Morphs/Female Base VaM - Head.vmi", 
+               "name" : "Female Base VaM - Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "OpenXXL", 
+               "name" : "OpenXXL", 
+               "value" : "0.00878446"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Frsk_Globe", 
+               "name" : "Frsk_Globe", 
+               "value" : "0.1191527"
+            }, 
+            { 
+               "uid" : "Defined Head", 
+               "name" : "Defined Head", 
+               "value" : "0.841575"
+            }, 
+            { 
+               "uid" : "Gl_Big", 
+               "name" : "Gl_Big", 
+               "value" : "-0.7616812"
+            }, 
+            { 
+               "uid" : "Gl_Frenulum", 
+               "name" : "Gl_Frenulum", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Height", 
+               "name" : "Gl_Height", 
+               "value" : "-0.6553905"
+            }, 
+            { 
+               "uid" : "Gl_Incline", 
+               "name" : "Gl_Incline", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Gl_Length", 
+               "name" : "Gl_Length", 
+               "value" : "0.2532114"
+            }, 
+            { 
+               "uid" : "Gl_Urethra_Scale", 
+               "name" : "Gl_Urethra_Scale", 
+               "value" : "-0.3276853"
+            }, 
+            { 
+               "uid" : "Gl_Width", 
+               "name" : "Gl_Width", 
+               "value" : "0.4319426"
+            }, 
+            { 
+               "uid" : "Curved", 
+               "name" : "Curved", 
+               "value" : "-0.22343"
+            }, 
+            { 
+               "uid" : "Erect", 
+               "name" : "Erect", 
+               "value" : "-0.609167"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "2.5"
+            }, 
+            { 
+               "uid" : "Penis Width", 
+               "name" : "Penis Width", 
+               "value" : "0.5697302"
+            }, 
+            { 
+               "uid" : "Sh_Flat_Top", 
+               "name" : "Sh_Flat_Top", 
+               "value" : "0.3143157"
+            }, 
+            { 
+               "uid" : "Sh_Girth_Base", 
+               "name" : "Sh_Girth_Base", 
+               "value" : "0.08937335"
+            }, 
+            { 
+               "uid" : "Sh_Length", 
+               "name" : "Sh_Length", 
+               "value" : "0.3"
+            }, 
+            { 
+               "uid" : "Shaft_CurveDown-Up", 
+               "name" : "Shaft_CurveDown-Up", 
+               "value" : "-0.5511284"
+            }, 
+            { 
+               "uid" : "Shaft_Spongiosum", 
+               "name" : "Shaft_Spongiosum", 
+               "value" : "0.4334764"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "BigCsar.My_Morphs.29:/Custom/Atom/Person/Morphs/female/My Morphs/Gabrielly Fin - Body.vmi", 
+               "name" : "Gabrielly Fin - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BigCsar.My_Morphs.29:/Custom/Atom/Person/Morphs/female/My Morphs/Gabrielly Fin - Head.vmi", 
+               "name" : "Gabrielly Fin - Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "GiovniYA.Chniami_2X.2:/Custom/Atom/Person/Morphs/female/Chinami 2.X - Head.vmi", 
+               "name" : "Chinami 2.X - Head", 
+               "value" : "0.3013988"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female/TenStrip/Thicc.vmi", 
+               "name" : "Thicc", 
+               "value" : "0.5404716"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}

@@ -1,0 +1,308 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/male_genitalia/Genitalia_Reloaded-Lite/bigpenis.vmi", 
+               "name" : "bigpenis", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Gl_Big", 
+               "name" : "Gl_Big", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Gl_Short", 
+               "name" : "Gl_Short", 
+               "value" : "3"
+            }, 
+            { 
+               "uid" : "Sc_Define", 
+               "name" : "Sc_Define", 
+               "value" : "0.7021425"
+            }, 
+            { 
+               "uid" : "Testes Thick", 
+               "name" : "Testes Thick", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Testes_Height", 
+               "name" : "Testes_Height", 
+               "value" : "-0.4041189"
+            }, 
+            { 
+               "uid" : "Testes_ShaftSkin", 
+               "name" : "Testes_ShaftSkin", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Testicle Height Left", 
+               "name" : "Testicle Height Left", 
+               "value" : "0.2472686"
+            }, 
+            { 
+               "uid" : "Testicle Height Right", 
+               "name" : "Testicle Height Right", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Eyes Iris Size", 
+               "name" : "Eyes Iris Size", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Chest.vmi", 
+               "name" : "Breathing Chest", 
+               "value" : "-0.357677"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_NoseOut.vmi", 
+               "name" : "Breathing NoseOut", 
+               "value" : "0.04704278"
+            }, 
+            { 
+               "uid" : "MacGruber.Life.13:/Custom/Atom/Person/Morphs/male/MacGruber/Pose/Breathing/Breathing_Stomach.vmi", 
+               "name" : "Breathing Stomach", 
+               "value" : "-0.2647179"
+            }, 
+            { 
+               "uid" : "WeebU.Purple_Draenei.2:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Gooch + Hanging.vmi", 
+               "name" : "Gens - Gooch + Hanging", 
+               "value" : "0.7294361"
+            }, 
+            { 
+               "uid" : "WeebU.Purple_Draenei.2:/Custom/Atom/Person/Morphs/male/Dreaenei purple 0.2-01b0f0cc.vmi", 
+               "name" : "Dreaenei purple 0.2", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Purple_Draenei.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Extended_.vmi", 
+               "name" : "Horse_Extended_", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.Purple_Draenei.2:/Custom/Atom/Person/Morphs/male_genitalia/Horse/Horse_Head_ScaleDown.vmi", 
+               "name" : "Horse_Head_ScaleDown", 
+               "value" : "0.7339214"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "V2.___UniversalMorphCollection___.100:/Custom/Atom/Person/Morphs/female/!!!/Thigh full.vmi", 
+               "name" : "Thigh full", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Spacedog.Import_Reloaded_Lite.2:/Custom/Atom/Person/Morphs/female/Arms&Hands_Reloaded-Lite/Arms petite.vmi", 
+               "name" : "Arms petite", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Esingex.So_Young.1:/Custom/Atom/Person/Morphs/female/Arms&Hands_Reloaded-Lite/Arms petite.vmi", 
+               "name" : "Arms petite", 
+               "value" : "0.7719924"
+            }, 
+            { 
+               "uid" : "vecterror._MorphCollection_.6:/Custom/Atom/Person/Morphs/female/vecterror/Shoulder small.vmi", 
+               "name" : "Shoulder small", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "BANANANA.Harumis_Secret_Shop.1:/Custom/Atom/Person/Morphs/female/Eyes_Iris_Big-08e7e065.vmi", 
+               "name" : "Eyes_Iris_Big", 
+               "value" : "0.7362508"
+            }, 
+            { 
+               "uid" : "Esingex.Min_Lin.1:/Custom/Atom/Person/Morphs/female/Eosin/Feminine Hand Wrist & Forearm.vmi", 
+               "name" : "Feminine Hand Wrist & Forearm", 
+               "value" : "0.2698528"
+            }, 
+            { 
+               "uid" : "AnalogueBob.Eye_Workshop.2:/Custom/Atom/Person/Morphs/female/Eye Workshop/Eye Iris Size L.vmi", 
+               "name" : "Eye Iris Size L", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "AnalogueBob.Eye_Workshop.2:/Custom/Atom/Person/Morphs/female/Eye Workshop/Eye Iris Size R.vmi", 
+               "name" : "Eye Iris Size R", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "SupaRioAmateur.7th_Heaven_Fighter.7:/Custom/Atom/Person/Morphs/female/SupaRioAmateur/Details/Forearms Muscles.vmi", 
+               "name" : "Forearms Muscles", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "SupaRioAmateur.7th_Heaven_Fighter.7:/Custom/Atom/Person/Morphs/female/SupaRioAmateur/Details/Forearms Muscles Details.vmi", 
+               "name" : "Forearms Muscles Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Wolverine333.LAUREN_4.1:/Custom/Atom/Person/Morphs/female/AUTO/Arm Length.vmi", 
+               "name" : "Arm Length", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Wolverine333.LAUREN_2.1:/Custom/Atom/Person/Morphs/female/AUTO/Arm Length.vmi", 
+               "name" : "Arm Length", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Forearms Size", 
+               "name" : "Forearms Size", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Upper Arms Size", 
+               "name" : "Upper Arms Size", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Carmen Body", 
+               "name" : "Carmen Body", 
+               "value" : "0.3645594"
+            }, 
+            { 
+               "uid" : "Voluptuous", 
+               "name" : "Voluptuous", 
+               "value" : "0.5975083"
+            }, 
+            { 
+               "uid" : "Breasts Natural", 
+               "name" : "Breasts Natural", 
+               "value" : "0.1186836"
+            }, 
+            { 
+               "uid" : "Breasts Shape 02", 
+               "name" : "Breasts Shape 02", 
+               "value" : "0.5674472"
+            }, 
+            { 
+               "uid" : "Breasts Shape 08", 
+               "name" : "Breasts Shape 08", 
+               "value" : "0.3470395"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Eyes Iris Size", 
+               "name" : "Eyes Iris Size", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Eyes Size", 
+               "name" : "Eyes Size", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "Eyes Size Left", 
+               "name" : "Eyes Size Left", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "Eyes Size Right", 
+               "name" : "Eyes Size Right", 
+               "value" : "0.1529431"
+            }, 
+            { 
+               "uid" : "EyeShape5", 
+               "name" : "EyeShape5", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Nose A", 
+               "name" : "Nose A", 
+               "value" : "0.4116699"
+            }, 
+            { 
+               "uid" : "Lucille Head", 
+               "name" : "Lucille Head", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "!AjaX.Arm_Muscles.2:/Custom/Atom/Person/Morphs/female/AjaX - Arm Muscles.vmi", 
+               "name" : "AjaX - Arm Muscles", 
+               "value" : "0.3342277"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female/TenStrip/Thicc.vmi", 
+               "name" : "Thicc", 
+               "value" : "0.5289019"
+            }, 
+            { 
+               "uid" : "WeebU.Futa_2b_pov_scenes.4:/Custom/Atom/Person/Morphs/female/2b thicc-d5d13109.vmi", 
+               "name" : "2b thicc", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "true"
+      }
+   ]
+}
