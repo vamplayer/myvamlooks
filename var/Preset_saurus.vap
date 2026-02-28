@@ -1,0 +1,2548 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "useAdvancedColliders" : "true", 
+         "useAuxBreastColliders" : "true", 
+         "disableAnatomy" : "false", 
+         "useMaleMorphsOnFemale" : "false", 
+         "useFemaleMorphsOnMale" : "false", 
+         "character" : "Female Custom", 
+         "clothing" : [ 
+            { 
+               "id" : "Clothing Creator", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Tank Top", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "Shorts", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/Saurus Head.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Head", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Jaw Spikes/Saurus Jaw Spikes.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Jaw Spikes", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Eyelashes/Saurus Eyelashes.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Eyelashes", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Upper/Saurus Teeth Upper.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Teeth Upper", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Lower/Saurus Teeth Lower.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Teeth Lower", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Eyes/Saurus Eyes.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Eyes", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Loincloth/Tribal Loincloth.vam", 
+               "internalId" : "PaintLifeBleak:Tribal Loincloth", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Arms/Tribal Arms.vam", 
+               "internalId" : "PaintLifeBleak:Tribal Arms", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Legs/Tribal Legs.vam", 
+               "internalId" : "PaintLifeBleak:Tribal Legs", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Back Spikes/Saurus Back Spikes.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Back Spikes", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Nails/Saurus Nails.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Nails", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Piercings/Saurus Piercings.vam", 
+               "internalId" : "PaintLifeBleak:Saurus Piercings", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/Tribal Top.vam", 
+               "internalId" : "PaintLifeBleak:Tribal Top", 
+               "enabled" : "true"
+            }
+         ], 
+         "hair" : [ 
+            { 
+               "id" : "SimV2 Hair", 
+               "enabled" : "false"
+            }
+         ], 
+         "morphs" : [ 
+            { 
+               "uid" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Morphs/female/Saurus - Body.vmi", 
+               "name" : "Saurus - Body", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Morphs/female_genitalia/Saurus - Genital.vmi", 
+               "name" : "Saurus - Genital", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Morphs/female/Saurus - Head.vmi", 
+               "name" : "Saurus - Head", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "BendFix", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "FemaleAnatomy", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "BreastControl", 
+         "mass" : "0.4", 
+         "centerOfGravityPercent" : "0.7", 
+         "spring" : "30", 
+         "damper" : "0.4", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "500", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "5", 
+         "targetRotationX" : "5", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "GluteControl", 
+         "mass" : "0.75", 
+         "centerOfGravityPercent" : "0.5", 
+         "spring" : "7", 
+         "damper" : "0.5", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "200", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "5", 
+         "targetRotationX" : "-10", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "BreastInOut", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "LowerPhysicsMesh", 
+         "on" : "true", 
+         "allowSelfCollision" : "false", 
+         "softVerticesUseAutoColliderRadius" : "false", 
+         "softVerticesCombinedSpring" : "80", 
+         "softVerticesCombinedDamper" : "1", 
+         "softVerticesMass" : "0.14", 
+         "softVerticesBackForce" : "8", 
+         "softVerticesBackForceThresholdDistance" : "0", 
+         "softVerticesBackForceMaxForce" : "8", 
+         "softVerticesColliderRadius" : "0.043", 
+         "softVerticesColliderAdditionalNormalOffset" : "-0.004", 
+         "softVerticesDistanceLimit" : "0.03"
+      }, 
+      { 
+         "id" : "BreastPhysicsMesh", 
+         "on" : "true", 
+         "allowSelfCollision" : "false", 
+         "softVerticesUseAutoColliderRadius" : "true", 
+         "softVerticesCombinedSpring" : "150", 
+         "softVerticesCombinedDamper" : "2", 
+         "softVerticesMass" : "0.14", 
+         "softVerticesBackForce" : "2", 
+         "softVerticesBackForceThresholdDistance" : "0", 
+         "softVerticesBackForceMaxForce" : "2", 
+         "softVerticesColliderRadius" : "0.05", 
+         "softVerticesColliderAdditionalNormalOffset" : "0", 
+         "softVerticesDistanceLimit" : "0.03", 
+         "groupASpringMultiplier" : "1", 
+         "groupADamperMultiplier" : "1", 
+         "groupBSpringMultiplier" : "1", 
+         "groupBDamperMultiplier" : "1", 
+         "groupCSpringMultiplier" : "2", 
+         "groupCDamperMultiplier" : "4", 
+         "groupDSpringMultiplier" : "3", 
+         "groupDDamperMultiplier" : "6"
+      }, 
+      { 
+         "id" : "EyelidControl", 
+         "eyelidLookMorphsEnabled" : "false"
+      }, 
+      { 
+         "id" : "AutoJawMouthMorph", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "AutoExpressions", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "FemaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 11", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1111108", 
+            "s" : "0.2093028", 
+            "v" : "0.1686275"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1.25", 
+         "Gloss" : "5.6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.111111", 
+            "s" : "0.2499996", 
+            "v" : "0.0470588"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.07936499", 
+            "s" : "0.2999999", 
+            "v" : "0.2745098"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.2509804", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "irises", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "5.526", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Irises" : "Color 1", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/eyes.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "sclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.5", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0.2", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Sclera" : "Sclera 1", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/eyes.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "lacrimals", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/face.png", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "SoftBodyPhysicsEnabler", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "rescaleObject", 
+         "scale" : "1"
+      }, 
+      { 
+         "id" : "skin", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Face" : "Browless", 
+         "Skin Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "textures", 
+         "autoBlendGenitalTextures" : "false", 
+         "autoBlendGenitalSpecGlossNormalTextures" : "true", 
+         "autoBlendGenitalLightenDarken" : "0", 
+         "autoBlendGenitalHueOffset" : "0", 
+         "autoBlendGenitalSaturationOffset" : "0", 
+         "faceDiffuseUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/face.png", 
+         "torsoDiffuseUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/torso.png", 
+         "limbsDiffuseUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/limbs.png", 
+         "genitalsDiffuseUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/torso.png", 
+         "faceSpecularUrl" : "", 
+         "torsoSpecularUrl" : "", 
+         "limbsSpecularUrl" : "", 
+         "genitalsSpecularUrl" : "", 
+         "faceGlossUrl" : "", 
+         "torsoGlossUrl" : "", 
+         "limbsGlossUrl" : "", 
+         "genitalsGlossUrl" : "", 
+         "faceNormalUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/faceN.png", 
+         "torsoNormalUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/torsoN.png", 
+         "limbsNormalUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/limbsN.png", 
+         "genitalsNormalUrl" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/torsoN.png", 
+         "faceDetailUrl" : "", 
+         "torsoDetailUrl" : "", 
+         "limbsDetailUrl" : "", 
+         "genitalsDetailUrl" : "", 
+         "faceDecalUrl" : "", 
+         "torsoDecalUrl" : "", 
+         "limbsDecalUrl" : "", 
+         "genitalsDecalUrl" : ""
+      }, 
+      { 
+         "id" : "teeth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "tongue", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.2", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/mouth.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "mouth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Atom/Person/Textures/Saurus/mouth.png", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus HeadWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus HeadSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus HeadItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus HeadMaterialSaurusBody", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/SaurusBody_BaseColor.png", 
+         "customTexture_SpecTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/SaurusBodySuit_BaseColor.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/SaurusBody_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus HeadMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Head/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Head:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Stopper.StaticClothing.2:/Custom/Scripts/Stopper/StaticClothing/StaticClothing.cs", 
+            "plugin#2" : "Stopper.ClothingColliders.1:/Custom/Scripts/Stopper/ClothColliders/ClothColliders.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Head:plugin#1_Stopper.StaticClothing", 
+               "positionOffset" : { 
+                  "y" : "-0.0009999984", 
+                  "z" : "-0.016"
+               }
+            }, 
+            { 
+               "id" : "plugin#2_Stopper.ClothColliders"
+            }
+         ]
+      }, 
+      { 
+         "id" : "plugin#1_Stopper.StaticClothing", 
+         "positionOffset" : { 
+            "x" : "0", 
+            "y" : "-0.0009999984", 
+            "z" : "-0.016"
+         }, 
+         "rotationOffset" : { 
+            "x" : "0", 
+            "y" : "0", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Jaw SpikesWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Jaw SpikesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Jaw SpikesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Jaw SpikesMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Jaw Spikes/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Jaw Spikes/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Jaw Spikes:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Stopper.StaticClothing.2:/Custom/Scripts/Stopper/StaticClothing/StaticClothing.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Jaw Spikes:plugin#1_Stopper.StaticClothing", 
+               "positionOffset" : { 
+                  "y" : "0.151", 
+                  "z" : "-0.6110002"
+               }, 
+               "rotationOffset" : { 
+                  "x" : "23.37152"
+               }, 
+               "Parent Bone" : "lowerJaw"
+            }
+         ]
+      }, 
+      { 
+         "id" : "plugin#1_Stopper.StaticClothing", 
+         "positionOffset" : { 
+            "x" : "0", 
+            "y" : "0.151", 
+            "z" : "-0.6110002"
+         }, 
+         "rotationOffset" : { 
+            "x" : "23.37152", 
+            "y" : "0", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyelashesWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyelashesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyelashesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyelashesMaterialdetails", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Eyelashes/SaurusBody_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth UpperWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth UpperSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth UpperItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth UpperMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Upper/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Upper/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth Upper:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Stopper.StaticClothing.2:/Custom/Scripts/Stopper/StaticClothing/StaticClothing.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Teeth Upper:plugin#1_Stopper.StaticClothing", 
+               "positionOffset" : { 
+                  "z" : "0.023"
+               }
+            }
+         ]
+      }, 
+      { 
+         "id" : "plugin#1_Stopper.StaticClothing", 
+         "positionOffset" : { 
+            "x" : "0", 
+            "y" : "0", 
+            "z" : "0.023"
+         }, 
+         "rotationOffset" : { 
+            "x" : "0", 
+            "y" : "0", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth LowerWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth LowerSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth LowerItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth LowerMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Lower/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Teeth Lower/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Teeth Lower:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Stopper.StaticClothing.2:/Custom/Scripts/Stopper/StaticClothing/StaticClothing.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Teeth Lower:plugin#1_Stopper.StaticClothing", 
+               "positionOffset" : { 
+                  "y" : "0.013", 
+                  "z" : "-0.2100001"
+               }, 
+               "rotationOffset" : { 
+                  "x" : "7.76624"
+               }, 
+               "Parent Bone" : "lowerJaw"
+            }
+         ]
+      }, 
+      { 
+         "id" : "plugin#1_Stopper.StaticClothing", 
+         "positionOffset" : { 
+            "x" : "0", 
+            "y" : "0.013", 
+            "z" : "-0.2100001"
+         }, 
+         "rotationOffset" : { 
+            "x" : "7.76624", 
+            "y" : "0", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyesWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyesMaterialSaurusEyes.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Eyes/SaurusEyes_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus EyesMaterialSaurusEyes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Eyes/SaurusEyes_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Eyes:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Regguise.StaticClothing_Extended.2:/Custom/Scripts/Regguise/StaticClothing_Extended/StaticClothing_Extended.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Eyes:plugin#1_Regguise.StaticClothing_Extended", 
+               "Separate by Material" : "true", 
+               "positionOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0"
+               }, 
+               "rotationOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0"
+               }, 
+               "Active Material" : "SaurusEyes.001", 
+               "Parent Bone" : "rEye", 
+               "rotCenterOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0"
+               }, 
+               "scale" : { 
+                  "x" : "1", 
+                  "y" : "1", 
+                  "z" : "1"
+               }, 
+               "scaleOverall" : "1", 
+               "perMaterialBoneSettings" : [ 
+                  { 
+                     "boneName" : "lEye", 
+                     "posOffset" : { 
+                        "x" : "0.018", 
+                        "y" : "-0.005", 
+                        "z" : "0.004"
+                     }, 
+                     "scale" : { 
+                        "x" : "1", 
+                        "y" : "1", 
+                        "z" : "1"
+                     }, 
+                     "rotOffset" : { 
+                        "x" : "0", 
+                        "y" : "-30", 
+                        "z" : "0"
+                     }, 
+                     "rotCenterOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "scaleOverall" : "1"
+                  }, 
+                  { 
+                     "boneName" : "rEye", 
+                     "posOffset" : { 
+                        "x" : "-0.0195", 
+                        "y" : "-0.005", 
+                        "z" : "0.004"
+                     }, 
+                     "scale" : { 
+                        "x" : "1", 
+                        "y" : "1", 
+                        "z" : "1"
+                     }, 
+                     "rotOffset" : { 
+                        "x" : "0", 
+                        "y" : "30", 
+                        "z" : "0"
+                     }, 
+                     "rotCenterOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "scaleOverall" : "1"
+                  }
+               ]
+            }
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Eyes", 
+         "positionOffset" : { 
+            "x" : "-0.0195", 
+            "y" : "-0.005", 
+            "z" : "0.004"
+         }, 
+         "rotationOffset" : { 
+            "x" : "0", 
+            "y" : "30", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LoinclothWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LoinclothSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "5", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LoinclothItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LoinclothMaterialTribalOutfit", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_SpecTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Alpha.png", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Loincloth/SIM.png", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal ArmsWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal ArmsSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "5", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal ArmsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal ArmsMaterialTribalOutfit", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_SpecTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Alpha.png", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LegsWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LegsSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "5", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LegsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal LegsMaterialTribalOutfit", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_SpecTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Alpha.png", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Back SpikesWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "-1.006", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Back SpikesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Back SpikesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Back SpikesMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Back Spikes/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Back Spikes/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus NailsWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus NailsSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "5", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus NailsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus NailsMaterialSaurusBits", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.8", 
+         "Gloss Texture Offset" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Nails/SaurusBits_BaseColor.png", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Saurus Nails/SaurusBits_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.06201547", 
+            "s" : "0.1102941", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus PiercingsWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus PiercingsSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "5", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus PiercingsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus PiercingsMaterialClothing_&_Accessories.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.144378"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.116059", 
+            "s" : "0.4805169", 
+            "v" : "0.8149125"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus PiercingsMaterialClothing_&_Accessories", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.144378"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.116059", 
+            "s" : "0.4805169", 
+            "v" : "0.8149125"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Piercings", 
+         "plugins" : { 
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Piercings:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Regguise.StaticClothing_Extended.2:/Custom/Scripts/Regguise/StaticClothing_Extended/StaticClothing_Extended.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "PaintLifeBleak:Saurus Piercings:plugin#1_Regguise.StaticClothing_Extended", 
+               "Separate by Material" : "true", 
+               "positionOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0.2"
+               }, 
+               "Active Material" : "Clothing_&_Accessories.001", 
+               "Parent Bone" : "rPectoral", 
+               "rotationOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0"
+               }, 
+               "rotCenterOffset" : { 
+                  "x" : "0", 
+                  "y" : "0", 
+                  "z" : "0"
+               }, 
+               "scale" : { 
+                  "x" : "1", 
+                  "y" : "1", 
+                  "z" : "1"
+               }, 
+               "scaleOverall" : "1", 
+               "perMaterialBoneSettings" : [ 
+                  { 
+                     "boneName" : "lPectoral", 
+                     "posOffset" : { 
+                        "x" : "-0.04433341", 
+                        "y" : "0.02333696", 
+                        "z" : "0.1229641"
+                     }, 
+                     "scale" : { 
+                        "x" : "1", 
+                        "y" : "1", 
+                        "z" : "1"
+                     }, 
+                     "rotOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "rotCenterOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "scaleOverall" : "1"
+                  }, 
+                  { 
+                     "boneName" : "rPectoral", 
+                     "posOffset" : { 
+                        "x" : "0.04430315", 
+                        "y" : "0.02333567", 
+                        "z" : "0.1229633"
+                     }, 
+                     "scale" : { 
+                        "x" : "1", 
+                        "y" : "1", 
+                        "z" : "1"
+                     }, 
+                     "rotOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "rotCenterOffset" : { 
+                        "x" : "0", 
+                        "y" : "0", 
+                        "z" : "0"
+                     }, 
+                     "scaleOverall" : "1"
+                  }
+               ]
+            }
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Saurus Piercings", 
+         "positionOffset" : { 
+            "x" : "0.04430315", 
+            "y" : "0.02333567", 
+            "z" : "0.1229633"
+         }, 
+         "rotationOffset" : { 
+            "x" : "0", 
+            "y" : "0", 
+            "z" : "0"
+         }, 
+         "scale" : { 
+            "overall" : "1", 
+            "x" : "1", 
+            "y" : "1", 
+            "z" : "1"
+         }
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal TopWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "-0.999", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal TopSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal TopItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "PaintLifeBleak:Tribal TopMaterialTribalOutfit", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_SpecTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_BaseColor.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Alpha.png", 
+         "customTexture_BumpMap" : "PaintLifeBleak.Saurus_VulgarVictor.1:/Custom/Clothing/Female/PaintLifeBleak/Tribal Top/TribalOutfit_Normal.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }
+   ]
+}

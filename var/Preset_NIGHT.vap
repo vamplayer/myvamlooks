@@ -1,0 +1,1521 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "useAdvancedColliders" : "true", 
+         "useAuxBreastColliders" : "true", 
+         "disableAnatomy" : "false", 
+         "useMaleMorphsOnFemale" : "false", 
+         "useFemaleMorphsOnMale" : "false", 
+         "character" : "Lexi", 
+         "clothing" : [ 
+            { 
+               "id" : "Tank Top", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "Shorts", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "Toussaint.eyes_reflection_and_shadow.1:/Custom/Clothing/Female/Toussaint/Toussaint eye reflection/Toussaint eye reflection.vam", 
+               "internalId" : "Toussaint:Toussaint eye reflection", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Toussaint.eyes_reflection_and_shadow.1:/Custom/Clothing/Female/Toussaint/Toussaint eye shadow/Toussaint eye shadow.vam", 
+               "internalId" : "Toussaint:Toussaint eye shadow", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Sayoko boots/Sayoko boots.vam", 
+               "internalId" : "Barbarossa:Sayoko boots", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Sayoko gloves/Sayoko gloves.vam", 
+               "internalId" : "Barbarossa:Sayoko gloves", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Daily outfit/Sayoko hair 2/Sayoko hair 2.vam", 
+               "internalId" : "Barbarossa:Sayoko hair 2", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Sayoko open suit/Sayoko open suit.vam", 
+               "internalId" : "Barbarossa:Sayoko open suit", 
+               "enabled" : "true"
+            }
+         ], 
+         "hair" : [ 
+            { 
+               "id" : "SimV2 Hair", 
+               "enabled" : "false"
+            }
+         ], 
+         "morphs" : [ 
+            { 
+               "uid" : "Breast Height Lower", 
+               "name" : "Breast Height Lower", 
+               "value" : "0.5546433"
+            }, 
+            { 
+               "uid" : "Breast Height Upper", 
+               "name" : "Breast Height Upper", 
+               "value" : "0.4631161"
+            }, 
+            { 
+               "uid" : "Breast Top Curve1", 
+               "name" : "Breast Top Curve1", 
+               "value" : "-0.2399558"
+            }, 
+            { 
+               "uid" : "Breast Top Curve2", 
+               "name" : "Breast Top Curve2", 
+               "value" : "0.3215518"
+            }, 
+            { 
+               "uid" : "Breast Under Smoother1", 
+               "name" : "Breast Under Smoother1", 
+               "value" : "0.3777972"
+            }, 
+            { 
+               "uid" : "Breast Zero", 
+               "name" : "Breast Zero", 
+               "value" : "0.2095911"
+            }, 
+            { 
+               "uid" : "Breasts Gone", 
+               "name" : "Breasts Gone", 
+               "value" : "0.5455285"
+            }, 
+            { 
+               "uid" : "Breasts Natural", 
+               "name" : "Breasts Natural", 
+               "value" : "0.508844"
+            }, 
+            { 
+               "uid" : "Breasts Small", 
+               "name" : "Breasts Small", 
+               "value" : "0.4417939"
+            }, 
+            { 
+               "uid" : "BreastsCrease", 
+               "name" : "BreastsCrease", 
+               "value" : "-2"
+            }, 
+            { 
+               "uid" : "BreastsShape1", 
+               "name" : "BreastsShape1", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BreastsShape2", 
+               "name" : "BreastsShape2", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "BreastsShape3", 
+               "name" : "BreastsShape3", 
+               "value" : "-0.868744"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Nipples Diameter", 
+               "name" : "Nipples Diameter", 
+               "value" : "0.7982053"
+            }, 
+            { 
+               "uid" : "Armpit Curve", 
+               "name" : "Armpit Curve", 
+               "value" : "2.081748"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Eyeballs Depth", 
+               "name" : "Eyeballs Depth", 
+               "value" : "0.1813098"
+            }, 
+            { 
+               "uid" : "kemenate.Morphs.10:/Custom/Atom/Person/Morphs/female/kemenate/f_iris_pupil_fix.vmi", 
+               "name" : "Iris Pupil Fix", 
+               "value" : "1.031087"
+            }, 
+            { 
+               "uid" : "Teeth Lower Jaw Move Forward-Back", 
+               "name" : "Teeth Lower Jaw Move Forward-Back", 
+               "value" : "-0.7358686"
+            }, 
+            { 
+               "uid" : "Teeth Lower Jaw Move Up-Down", 
+               "name" : "Teeth Lower Jaw Move Up-Down", 
+               "value" : "-0.08531231"
+            }, 
+            { 
+               "uid" : "Teeth Upper Jaw Move Forward-Back", 
+               "name" : "Teeth Upper Jaw Move Forward-Back", 
+               "value" : "-0.1813031"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Morphs/female/Sayoko morph.vmi", 
+               "name" : "Sayoko morph", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "BendFix", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "FemaleAnatomy", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "BreastControl", 
+         "mass" : "0.4", 
+         "centerOfGravityPercent" : "0.7", 
+         "spring" : "30", 
+         "damper" : "0.4", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "500", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "5", 
+         "targetRotationX" : "5", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "GluteControl", 
+         "mass" : "0.75", 
+         "centerOfGravityPercent" : "0.5", 
+         "spring" : "7", 
+         "damper" : "0.5", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "200", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "5", 
+         "targetRotationX" : "-10", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "BreastInOut", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "LowerPhysicsMesh", 
+         "on" : "true", 
+         "allowSelfCollision" : "false", 
+         "softVerticesUseAutoColliderRadius" : "false", 
+         "softVerticesCombinedSpring" : "80", 
+         "softVerticesCombinedDamper" : "1", 
+         "softVerticesMass" : "0.14", 
+         "softVerticesBackForce" : "8", 
+         "softVerticesBackForceThresholdDistance" : "0", 
+         "softVerticesBackForceMaxForce" : "8", 
+         "softVerticesColliderRadius" : "0.043", 
+         "softVerticesColliderAdditionalNormalOffset" : "-0.004", 
+         "softVerticesDistanceLimit" : "0.03"
+      }, 
+      { 
+         "id" : "BreastPhysicsMesh", 
+         "on" : "true", 
+         "allowSelfCollision" : "false", 
+         "softVerticesUseAutoColliderRadius" : "true", 
+         "softVerticesCombinedSpring" : "150", 
+         "softVerticesCombinedDamper" : "2", 
+         "softVerticesMass" : "0.14", 
+         "softVerticesBackForce" : "2", 
+         "softVerticesBackForceThresholdDistance" : "0", 
+         "softVerticesBackForceMaxForce" : "2", 
+         "softVerticesColliderRadius" : "0.05", 
+         "softVerticesColliderAdditionalNormalOffset" : "0", 
+         "softVerticesDistanceLimit" : "0.03", 
+         "groupASpringMultiplier" : "1", 
+         "groupADamperMultiplier" : "1", 
+         "groupBSpringMultiplier" : "1", 
+         "groupBDamperMultiplier" : "1", 
+         "groupCSpringMultiplier" : "2", 
+         "groupCDamperMultiplier" : "4", 
+         "groupDSpringMultiplier" : "3", 
+         "groupDDamperMultiplier" : "6"
+      }, 
+      { 
+         "id" : "EyelidControl", 
+         "eyelidLookMorphsEnabled" : "true"
+      }, 
+      { 
+         "id" : "AutoJawMouthMorph", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "AutoExpressions", 
+         "enabled" : "false"
+      }, 
+      { 
+         "id" : "FemaleEyelashes", 
+         "hideMaterial" : "true", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 11", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1111108", 
+            "s" : "0.2093028", 
+            "v" : "0.1686275"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1.25", 
+         "Gloss" : "5.6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.111111", 
+            "s" : "0.2499996", 
+            "v" : "0.0470588"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.07936499", 
+            "s" : "0.2999999", 
+            "v" : "0.2745098"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.2509804", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "irises", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "5.526", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Irises" : "Color 1", 
+         "customTexture_MainTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/iris.png", 
+         "customTexture_SpecTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/iris.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.4303797", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.8748565"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.3209724"
+         }
+      }, 
+      { 
+         "id" : "sclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.5", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0.2", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Sclera" : "Sclera 4", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5584416", 
+            "s" : "0.3019608", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "lacrimals", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6.5", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SoftBodyPhysicsEnabler", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "rescaleObject", 
+         "scale" : "1"
+      }, 
+      { 
+         "id" : "skin", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "-0.156", 
+         "Specular Intensity" : "2.272", 
+         "Gloss" : "6.408", 
+         "Specular Fresnel" : "0.8950459", 
+         "Gloss Texture Offset" : "0.5", 
+         "Diffuse Texture Offset" : "-0.003", 
+         "Diffuse Bumpiness" : "0.2111476", 
+         "Specular Bumpiness" : "0.738148", 
+         "Global Illumination Filter" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "Face" : "D", 
+         "Nails" : "Purple", 
+         "customTexture_MainTex" : "", 
+         "customTexture_DecalTex" : "", 
+         "Skin Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5797102", 
+            "s" : "0.117347", 
+            "v" : "0.7686275"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0.06976748", 
+            "s" : "0.1869566", 
+            "v" : "0.9019608"
+         }
+      }, 
+      { 
+         "id" : "textures", 
+         "autoBlendGenitalTextures" : "false", 
+         "autoBlendGenitalSpecGlossNormalTextures" : "false", 
+         "autoBlendGenitalLightenDarken" : "-0.09999999", 
+         "autoBlendGenitalHueOffset" : "0", 
+         "autoBlendGenitalSaturationOffset" : "0.1", 
+         "faceDiffuseUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/faceD.png", 
+         "torsoDiffuseUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/TorsoD.png", 
+         "limbsDiffuseUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/LimbsD.png", 
+         "genitalsDiffuseUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/gensD.png", 
+         "faceSpecularUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/faceS.jpg", 
+         "torsoSpecularUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/torsoS.jpg", 
+         "limbsSpecularUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/limbsS.jpg", 
+         "genitalsSpecularUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/gensS.png", 
+         "faceGlossUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/faceG.jpg", 
+         "torsoGlossUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/torsoG.jpg", 
+         "limbsGlossUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/limbsG.jpg", 
+         "genitalsGlossUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/gensG.png", 
+         "faceNormalUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/faceN.jpg", 
+         "torsoNormalUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/torsoN.jpg", 
+         "limbsNormalUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/limbsN.jpg", 
+         "genitalsNormalUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Atom/Person/Textures/Sayoko/gensN.png", 
+         "faceDetailUrl" : "", 
+         "torsoDetailUrl" : "", 
+         "limbsDetailUrl" : "", 
+         "genitalsDetailUrl" : "", 
+         "faceDecalUrl" : "", 
+         "torsoDecalUrl" : "", 
+         "limbsDecalUrl" : "", 
+         "genitalsDecalUrl" : ""
+      }, 
+      { 
+         "id" : "teeth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.8599135"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.8301741"
+         }
+      }, 
+      { 
+         "id" : "tongue", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3.560555", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.8194443", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.2", 
+         "Specular Bumpiness" : "0.5", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.947635", 
+            "s" : "0.5937703", 
+            "v" : "0.9120012"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.9946997", 
+            "s" : "0.1731868", 
+            "v" : "0.9347842"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.5606034"
+         }
+      }, 
+      { 
+         "id" : "mouth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.9270825", 
+            "s" : "0.7555354", 
+            "v" : "0.8745584"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.91229", 
+            "s" : "0.132743", 
+            "v" : "0.7775029"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.7852101"
+         }
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye reflectionWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye reflectionSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye reflectionItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye reflectionMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2054.143", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-0.8679577", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Toussaint.eyes_reflection_and_shadow.1:/Custom/Clothing/Female/Toussaint/Toussaint eye reflection/bumpmap.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5148638", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye shadowWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye shadowSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye shadowItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Toussaint:Toussaint eye shadowMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2054.143", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0.01818442", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "Toussaint.eyes_reflection_and_shadow.1:/Custom/Clothing/Female/Toussaint/Toussaint eye shadow/Alphamask.png", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0.191394", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5148638", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko bootsWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0015", 
+         "additionalThicknessMultiplier" : "0.0015", 
+         "smoothIterations" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko bootsSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko bootsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko bootsMaterialDiffuse", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "5.708943", 
+         "Gloss" : "5.248533", 
+         "Specular Fresnel" : "0.7983854", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.6172367", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Boots final diffuse.png", 
+         "customTexture_SpecTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Boots final diffuse.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0.9819922", 
+            "v" : "0.2005672"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0.6099397", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.03567352", 
+            "v" : "0.6429639"
+         }
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko boots:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Skynet.CUAClothingAlt.4:/Custom/Scripts/Skynet/CUAClothingAlt.cs", 
+            "plugin#2" : "Skynet.CUAClothingAlt.4:/Custom/Scripts/Skynet/CUAClothingAlt.cs", 
+            "plugin#3" : "Skynet.Shoe_Helper_4.3:/Custom/Scripts/Stopper/ShoeHelper.cslist"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "plugin#1_Stopper.CUAClothing", 
+               "collisionEnabled" : "true", 
+               "xOffset" : "0.103", 
+               "yOffset" : "-0.047", 
+               "zOffset" : "0.03430064", 
+               "xRotation" : "344.75", 
+               "yRotation" : "3.62", 
+               "zRotation" : "359.1441", 
+               "assetName" : "assets/prefab/sayoko/sayoko night left heel.prefab", 
+               "Asset" : "assets/prefab/sayoko/sayoko night left heel.prefab", 
+               "Parent Bone" : "lFoot", 
+               "assetUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Assets/Sayoko/sayoko night left heel.assetbundle"
+            }, 
+            { 
+               "id" : "plugin#2_Stopper.CUAClothing", 
+               "collisionEnabled" : "true", 
+               "xOffset" : "-0.1081591", 
+               "yOffset" : "-0.04799128", 
+               "zOffset" : "0.0182506", 
+               "xRotation" : "344.8209", 
+               "yRotation" : "347.3406", 
+               "zRotation" : "3.53154", 
+               "assetName" : "assets/prefab/sayoko/sayoko night right heel.prefab", 
+               "Asset" : "assets/prefab/sayoko/sayoko night right heel.prefab", 
+               "Parent Bone" : "rFoot", 
+               "assetUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Assets/Sayoko/sayoko night right heel.assetbundle"
+            }, 
+            { 
+               "id" : "plugin#3_Stopper.ShoeHelper", 
+               "toeRotationTarget" : "19.74856", 
+               "footRotationTarget" : "-17.4532", 
+               "heelColliderLength" : "0.3900001", 
+               "heelColliderWifth" : "1.87", 
+               "heelColliderXOffset" : "-0.008345008", 
+               "heelColliderYOffset" : "-0.07417029", 
+               "heelColliderZOffset" : "0.01931101", 
+               "heelColliderXRotation" : "150.675", 
+               "toeColliderXScale" : "0.1593837", 
+               "toeColliderYScale" : "0.01", 
+               "toeColliderZScale" : "0.2137901", 
+               "toeColliderYOffset" : "-0.02416066", 
+               "toeColliderXRotation" : "-41.21601"
+            }
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko glovesWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0005", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko glovesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko glovesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko glovesMaterialDiffuse", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "5.708943", 
+         "Gloss" : "5.248533", 
+         "Specular Fresnel" : "0.7983854", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.6172367", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/gloves final diffuse.png", 
+         "customTexture_SpecTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/gloves final diffuse.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0.9819922", 
+            "v" : "0.2005672"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0.6099397", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.03567352", 
+            "v" : "0.6429639"
+         }
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko hair 2WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko hair 2Sim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko hair 2ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko hair 2MaterialDummy mesh (ignore)", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko hair 2:plugin#0_Stopper.ClothingPluginManager", 
+         "plugins" : { 
+            "plugin#0" : "Stopper.ClothingPluginManager.7:/Custom/Scripts/Stopper/ClothingPluginManager/ClothingPluginManager.cs", 
+            "plugin#1" : "Skynet.CUAClothingAlt.4:/Custom/Scripts/Skynet/CUAClothingAlt.cs"
+         }, 
+         "storables" : [ 
+            { 
+               "id" : "plugin#1_Stopper.CUAClothing", 
+               "collisionEnabled" : "true", 
+               "yOffset" : "-1.67642", 
+               "zOffset" : "-0.003999997", 
+               "Scale" : "1.03", 
+               "assetName" : "assets/prefab/sayoko/sayoko hair.prefab", 
+               "Asset" : "assets/prefab/sayoko/sayoko hair.prefab", 
+               "Parent Bone" : "head", 
+               "assetUrl" : "Barbarossa.Saeki_Sayoko.3:/Custom/Assets/Sayoko/sayoko hair.assetbundle"
+            }
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko open suitWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko open suitSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1.314497", 
+         "stiffness" : "0.1014204", 
+         "compressionResistance" : "0.01108041", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.2472344", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko open suitItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true", 
+         "enableJointSpringAndDamperAdjust" : "true", 
+         "enableBreastJointAdjust" : "false", 
+         "enableGluteJointAdjust" : "false", 
+         "breastJointSpringAndDamperMultiplier" : "3", 
+         "gluteJointSpringAndDamperMultiplier" : "3"
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko open suitMaterialMaterial", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "4.697962", 
+         "Gloss" : "4.540753", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/final texture.png", 
+         "customTexture_SpecTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/final texture.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Sayoko open suit/Sayoko open suitMaterialMaterialSimTemplate.png", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0.04381005", 
+            "v" : "0.2904532"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9348158"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Barbarossa:Sayoko open suitMaterialZipper", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "5.877357", 
+         "Gloss" : "4.945077", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/meiko_001_zipper_CH_CLOTH_SD006T9H0F9Z 9494_NMP.png", 
+         "customTexture_SpecTex" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/meiko_001_zipper_CH_CLOTH_SD006T9H0F9Z 9494_NMP.png", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "Barbarossa.Saeki_Sayoko.3:/Custom/Clothing/Female/Barbarossa/Sayoko Saeki/Night Outfit/Sayoko open suit/Sayoko open suitMaterialZipperSimTemplate.png", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6499423"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }
+   ]
+}

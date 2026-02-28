@@ -1,0 +1,4565 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "useAdvancedColliders" : "true", 
+         "useAuxBreastColliders" : "true", 
+         "disableAnatomy" : "false", 
+         "useMaleMorphsOnFemale" : "false", 
+         "useFemaleMorphsOnMale" : "true", 
+         "character" : "Futa Mia", 
+         "clothing" : [ 
+            { 
+               "id" : "Jeans", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "TShirt", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "WeebU.Lulu_Earrings_for_Futa.1:/Custom/Clothing/Male/SupaRioAmateur/Lulu Earrings/Lulu Earrings.vam", 
+               "internalId" : "SupaRioAmateur:Lulu Earrings", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/Net socks.vam", 
+               "internalId" : "WeebU:Net socks", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/Net chest.vam", 
+               "internalId" : "WeebU:Net chest", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/Net sleeves.vam", 
+               "internalId" : "WeebU:Net sleeves", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Male/SupaRioAmateur/Wearable Manicure/Wearable Manicure.vam", 
+               "internalId" : "SupaRioAmateur:Wearable Manicure", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "MrGiggly.G-Strips.4:/Custom/Clothing/Male/MrGiggly/G_Strips_Upper_1/G_Strips_Upper_1.vam", 
+               "internalId" : "MrGiggly:G_Strips_Upper_1", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "MrGiggly.G-Strips.4:/Custom/Clothing/Male/MrGiggly/G_Strips_Heel_High/G_Strips_Heel_High.vam", 
+               "internalId" : "MrGiggly:G_Strips_Heel_High", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/Moon Piercing.vam", 
+               "internalId" : "Giallone:Moon Piercing", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Male/WeebU/Futa Cock Rings set 2 - 1/Futa Cock Rings set 2 - 1.vam", 
+               "internalId" : "WeebU:Futa Cock Rings set 2 - 1", 
+               "enabled" : "true"
+            }
+         ], 
+         "hair" : [ 
+            { 
+               "id" : "Tyler Hair", 
+               "enabled" : "false"
+            }, 
+            { 
+               "id" : "WeebU.Futa_Hair.11:/Custom/Hair/Male/NoStage3/Long Upswept Top Bun/Top Bun.vam", 
+               "internalId" : "NoStage3:Top Bun", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Futa_Hair.11:/Custom/Hair/Male/NoStage3/Long Upswept Top Bun/Long Upswept.vam", 
+               "internalId" : "NoStage3:Long Upswept", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "WeebU.Futa_Hair.11:/Custom/Hair/Male/NoStage3/Bangs 6/Bangs 6.vam", 
+               "internalId" : "NoStage3:Bangs 6", 
+               "enabled" : "true"
+            }, 
+            { 
+               "id" : "ICannotDie.Pubic_Hair.2:/Custom/Hair/Male/ICannotDie/Pubic Hair/Natural Trimmed 08.vam", 
+               "internalId" : "ICannotDie:Natural Trimmed 08", 
+               "enabled" : "true"
+            }
+         ], 
+         "morphs" : [ 
+            { 
+               "uid" : "Michael 6 Body", 
+               "name" : "Michael 6 Body", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "MVR_G2Female", 
+               "name" : "MVR_G2Female", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Sternum Width", 
+               "name" : "Sternum Width", 
+               "value" : "0.1111681"
+            }, 
+            { 
+               "uid" : "Gl_Incline", 
+               "name" : "Gl_Incline", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Length", 
+               "name" : "Gl_Length", 
+               "value" : "-0.1176078"
+            }, 
+            { 
+               "uid" : "Gl_Short", 
+               "name" : "Gl_Short", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Gl_Slope", 
+               "name" : "Gl_Slope", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Urethra_Scale", 
+               "name" : "Gl_Urethra_Scale", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Gl_Width", 
+               "name" : "Gl_Width", 
+               "value" : "-0.5440321"
+            }, 
+            { 
+               "uid" : "Glans_Fan", 
+               "name" : "Glans_Fan", 
+               "value" : "-0.08533126"
+            }, 
+            { 
+               "uid" : "Glans_Mushroom", 
+               "name" : "Glans_Mushroom", 
+               "value" : "0.6070888"
+            }, 
+            { 
+               "uid" : "Sc_Adhered", 
+               "name" : "Sc_Adhered", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Curve Up_Down", 
+               "name" : "Curve Up_Down", 
+               "value" : "0.5437468"
+            }, 
+            { 
+               "uid" : "Erect", 
+               "name" : "Erect", 
+               "value" : "0.3122458"
+            }, 
+            { 
+               "uid" : "Penis Length", 
+               "name" : "Penis Length", 
+               "value" : "4.822823"
+            }, 
+            { 
+               "uid" : "Sh_C_Spongiosum", 
+               "name" : "Sh_C_Spongiosum", 
+               "value" : "0.4469537"
+            }, 
+            { 
+               "uid" : "Sh_Girth", 
+               "name" : "Sh_Girth", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Sh_Girth_Base", 
+               "name" : "Sh_Girth_Base", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Sh_Height", 
+               "name" : "Sh_Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Sh_Taper", 
+               "name" : "Sh_Taper", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Shaft Wrinkles", 
+               "name" : "Shaft Wrinkles", 
+               "value" : "0.3708158"
+            }, 
+            { 
+               "uid" : "Shaft_Balloon", 
+               "name" : "Shaft_Balloon", 
+               "value" : "0.6351381"
+            }, 
+            { 
+               "uid" : "Shaft_Base Thick", 
+               "name" : "Shaft_Base Thick", 
+               "value" : "0.352852"
+            }, 
+            { 
+               "uid" : "Shaft_Spongiosum", 
+               "name" : "Shaft_Spongiosum", 
+               "value" : "0.4469101"
+            }, 
+            { 
+               "uid" : "Shaft_Spongiosum-Wide", 
+               "name" : "Shaft_Spongiosum-Wide", 
+               "value" : "0.2705396"
+            }, 
+            { 
+               "uid" : "Lee Genital (JaR)", 
+               "name" : "Lee Genital (JaR)", 
+               "value" : "0.8587107"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size", 
+               "name" : "Cheek Bones Size", 
+               "value" : "-0.446029"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size Left", 
+               "name" : "Cheek Bones Size Left", 
+               "value" : "-0.446029"
+            }, 
+            { 
+               "uid" : "Cheek Bones Size Right", 
+               "name" : "Cheek Bones Size Right", 
+               "value" : "-0.446029"
+            }, 
+            { 
+               "uid" : "Cheek Bones Width", 
+               "name" : "Cheek Bones Width", 
+               "value" : "0.2210541"
+            }, 
+            { 
+               "uid" : "Cheeks Define", 
+               "name" : "Cheeks Define", 
+               "value" : "0.4016671"
+            }, 
+            { 
+               "uid" : "Cheeks Depth", 
+               "name" : "Cheeks Depth", 
+               "value" : "-0.25"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Left", 
+               "name" : "Cheeks Depth Left", 
+               "value" : "-0.25"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Right", 
+               "name" : "Cheeks Depth Right", 
+               "value" : "-0.25"
+            }, 
+            { 
+               "uid" : "Chin Crease Smooth", 
+               "name" : "Chin Crease Smooth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Chin Depth", 
+               "name" : "Chin Depth", 
+               "value" : "-0.4810832"
+            }, 
+            { 
+               "uid" : "Eyelids Bottom Define", 
+               "name" : "Eyelids Bottom Define", 
+               "value" : "0.1352686"
+            }, 
+            { 
+               "uid" : "Eyelids Heavy", 
+               "name" : "Eyelids Heavy", 
+               "value" : "-0.03602523"
+            }, 
+            { 
+               "uid" : "Eyelids Smooth", 
+               "name" : "Eyelids Smooth", 
+               "value" : "0.03708115"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner", 
+               "name" : "Eyes Almond Inner", 
+               "value" : "0.556024"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner Left", 
+               "name" : "Eyes Almond Inner Left", 
+               "value" : "0.556024"
+            }, 
+            { 
+               "uid" : "Eyes Almond Inner Right", 
+               "name" : "Eyes Almond Inner Right", 
+               "value" : "0.556024"
+            }, 
+            { 
+               "uid" : "Eyes Angle", 
+               "name" : "Eyes Angle", 
+               "value" : "-0.448167"
+            }, 
+            { 
+               "uid" : "Eyes Angle Left", 
+               "name" : "Eyes Angle Left", 
+               "value" : "-0.448167"
+            }, 
+            { 
+               "uid" : "Eyes Angle Right", 
+               "name" : "Eyes Angle Right", 
+               "value" : "-0.448167"
+            }, 
+            { 
+               "uid" : "Eyes Cornea Bulge", 
+               "name" : "Eyes Cornea Bulge", 
+               "value" : "0.6859626"
+            }, 
+            { 
+               "uid" : "Eyes Size", 
+               "name" : "Eyes Size", 
+               "value" : "0.1787953"
+            }, 
+            { 
+               "uid" : "Eyes Size Left", 
+               "name" : "Eyes Size Left", 
+               "value" : "0.1787953"
+            }, 
+            { 
+               "uid" : "Eyes Size Right", 
+               "name" : "Eyes Size Right", 
+               "value" : "0.1787953"
+            }, 
+            { 
+               "uid" : "Eyes Width", 
+               "name" : "Eyes Width", 
+               "value" : "-0.2306185"
+            }, 
+            { 
+               "uid" : "Eyes Width Left", 
+               "name" : "Eyes Width Left", 
+               "value" : "-0.2306185"
+            }, 
+            { 
+               "uid" : "Eyes Width Right", 
+               "name" : "Eyes Width Right", 
+               "value" : "-0.2306185"
+            }, 
+            { 
+               "uid" : "Lacrimals Pinch", 
+               "name" : "Lacrimals Pinch", 
+               "value" : "0.3947346"
+            }, 
+            { 
+               "uid" : "Face Angle", 
+               "name" : "Face Angle", 
+               "value" : "0.1216013"
+            }, 
+            { 
+               "uid" : "Jaw Angle", 
+               "name" : "Jaw Angle", 
+               "value" : "0.5709834"
+            }, 
+            { 
+               "uid" : "Jaw Curve", 
+               "name" : "Jaw Curve", 
+               "value" : "-0.2633881"
+            }, 
+            { 
+               "uid" : "Jaw Define", 
+               "name" : "Jaw Define", 
+               "value" : "0.1453859"
+            }, 
+            { 
+               "uid" : "Jaw Height", 
+               "name" : "Jaw Height", 
+               "value" : "-0.4168594"
+            }, 
+            { 
+               "uid" : "Jaw Height Left", 
+               "name" : "Jaw Height Left", 
+               "value" : "-0.4168594"
+            }, 
+            { 
+               "uid" : "Jaw Height Right", 
+               "name" : "Jaw Height Right", 
+               "value" : "-0.4168594"
+            }, 
+            { 
+               "uid" : "Mouth Curves", 
+               "name" : "Mouth Curves", 
+               "value" : "0.3998547"
+            }, 
+            { 
+               "uid" : "Mouth Height", 
+               "name" : "Mouth Height", 
+               "value" : "-0.3701209"
+            }, 
+            { 
+               "uid" : "Mouth Width", 
+               "name" : "Mouth Width", 
+               "value" : "0.1800012"
+            }, 
+            { 
+               "uid" : "Nose Bridge Height", 
+               "name" : "Nose Bridge Height", 
+               "value" : "0.003742933"
+            }, 
+            { 
+               "uid" : "Nose Bridge Skew", 
+               "name" : "Nose Bridge Skew", 
+               "value" : "0.5034041"
+            }, 
+            { 
+               "uid" : "Nose Bridge Slope", 
+               "name" : "Nose Bridge Slope", 
+               "value" : "-0.09634358"
+            }, 
+            { 
+               "uid" : "Nose Size", 
+               "name" : "Nose Size", 
+               "value" : "0.3027433"
+            }, 
+            { 
+               "uid" : "Nose Tip Height", 
+               "name" : "Nose Tip Height", 
+               "value" : "-0.05601633"
+            }, 
+            { 
+               "uid" : "Nose Tip Width", 
+               "name" : "Nose Tip Width", 
+               "value" : "0.3728334"
+            }, 
+            { 
+               "uid" : "Nose Width", 
+               "name" : "Nose Width", 
+               "value" : "0.3205206"
+            }, 
+            { 
+               "uid" : "Michael 6 Head", 
+               "name" : "Michael 6 Head", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Navel Depth", 
+               "name" : "Navel Depth", 
+               "value" : "0.4478129"
+            }, 
+            { 
+               "uid" : "Navel Size", 
+               "name" : "Navel Size", 
+               "value" : "-0.1542576"
+            }, 
+            { 
+               "uid" : "Stomach Lower Depth", 
+               "name" : "Stomach Lower Depth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Waist Width", 
+               "name" : "Waist Width", 
+               "value" : "0.4455917"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Adj Crotch Sides.vmi", 
+               "name" : "Gens - Adj Crotch Sides", 
+               "value" : "0.5512653"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Center Bulge.vmi", 
+               "name" : "Gens - Center Bulge", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Corpus.vmi", 
+               "name" : "Gens - Corpus", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Corpus+.vmi", 
+               "name" : "Gens - Corpus+", 
+               "value" : "0.570444"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Fold Shape.vmi", 
+               "name" : "Gens - Fold Shape", 
+               "value" : "0.2356846"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Gooch + Hanging.vmi", 
+               "name" : "Gens - Gooch + Hanging", 
+               "value" : "0.7498854"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Overall Detail.vmi", 
+               "name" : "Gens - Overall Detail", 
+               "value" : "-0.1600505"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/male_genitalia/TenStrip_TS/Gens - Tip Skin Gap.vmi", 
+               "name" : "Gens - Tip Skin Gap", 
+               "value" : "-0.01736438"
+            }
+         ], 
+         "morphsOtherGender" : [ 
+            { 
+               "uid" : "Shoulder Width", 
+               "name" : "Shoulder Width", 
+               "value" : "-0.08029306"
+            }, 
+            { 
+               "uid" : "Shoulder Width (B)", 
+               "name" : "Shoulder Width (B)", 
+               "value" : "0.7911875"
+            }, 
+            { 
+               "uid" : "Lats Size", 
+               "name" : "Lats Size", 
+               "value" : "-0.2837928"
+            }, 
+            { 
+               "uid" : "Bodybuilder Details", 
+               "name" : "Bodybuilder Details", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Fitness Details", 
+               "name" : "Fitness Details", 
+               "value" : "2"
+            }, 
+            { 
+               "uid" : "Fitness Size", 
+               "name" : "Fitness Size", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Height", 
+               "name" : "Height", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Voluptuous", 
+               "name" : "Voluptuous", 
+               "value" : "0.4234418"
+            }, 
+            { 
+               "uid" : "Areola Depth", 
+               "name" : "Areola Depth", 
+               "value" : "0.4749702"
+            }, 
+            { 
+               "uid" : "Areola Puffy Edge", 
+               "name" : "Areola Puffy Edge", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Breast Diameter", 
+               "name" : "Breast Diameter", 
+               "value" : "0.4660963"
+            }, 
+            { 
+               "uid" : "Breast Large", 
+               "name" : "Breast Large", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Breast Sag2", 
+               "name" : "Breast Sag2", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Breast Top Curve2", 
+               "name" : "Breast Top Curve2", 
+               "value" : "0.2279757"
+            }, 
+            { 
+               "uid" : "Breasts Downward Slope", 
+               "name" : "Breasts Downward Slope", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Breasts Size", 
+               "name" : "Breasts Size", 
+               "value" : "0.4116525"
+            }, 
+            { 
+               "uid" : "BreastsShape1", 
+               "name" : "BreastsShape1", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BreastsShape2", 
+               "name" : "BreastsShape2", 
+               "value" : "-0.3175378"
+            }, 
+            { 
+               "uid" : "Nipple Diameter", 
+               "name" : "Nipple Diameter", 
+               "value" : "0.9454596"
+            }, 
+            { 
+               "uid" : "Nipple Length", 
+               "name" : "Nipple Length", 
+               "value" : "0.3359643"
+            }, 
+            { 
+               "uid" : "Nipple Size", 
+               "name" : "Nipple Size", 
+               "value" : "0.1595457"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0.8042885"
+            }, 
+            { 
+               "uid" : "Nipples Depth", 
+               "name" : "Nipples Depth", 
+               "value" : "0.6396428"
+            }, 
+            { 
+               "uid" : "Nipples Diameter", 
+               "name" : "Nipples Diameter", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Nipples Large", 
+               "name" : "Nipples Large", 
+               "value" : "0.3175595"
+            }, 
+            { 
+               "uid" : "RibCageWidth", 
+               "name" : "RibCageWidth", 
+               "value" : "-0.1605402"
+            }, 
+            { 
+               "uid" : "Ribs Width", 
+               "name" : "Ribs Width", 
+               "value" : "0.3058156"
+            }, 
+            { 
+               "uid" : "Lorraine Nails", 
+               "name" : "Lorraine Nails", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BrowAreaSmooth", 
+               "name" : "BrowAreaSmooth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "BrowAreaSmooth2", 
+               "name" : "BrowAreaSmooth2", 
+               "value" : "0.1490834"
+            }, 
+            { 
+               "uid" : "Brows Arch", 
+               "name" : "Brows Arch", 
+               "value" : "0.6114703"
+            }, 
+            { 
+               "uid" : "Brows Size", 
+               "name" : "Brows Size", 
+               "value" : "0.3216327"
+            }, 
+            { 
+               "uid" : "Cheek Bones Width Outer", 
+               "name" : "Cheek Bones Width Outer", 
+               "value" : "0.2705164"
+            }, 
+            { 
+               "uid" : "Cheek Bones Width Upper", 
+               "name" : "Cheek Bones Width Upper", 
+               "value" : "-0.4234183"
+            }, 
+            { 
+               "uid" : "Cheek Jowl", 
+               "name" : "Cheek Jowl", 
+               "value" : "-0.104978"
+            }, 
+            { 
+               "uid" : "Cheek Lower Depth", 
+               "name" : "Cheek Lower Depth", 
+               "value" : "-0.1234952"
+            }, 
+            { 
+               "uid" : "Cheeks Depth", 
+               "name" : "Cheeks Depth", 
+               "value" : "-0.1102589"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Left", 
+               "name" : "Cheeks Depth Left", 
+               "value" : "-0.1102589"
+            }, 
+            { 
+               "uid" : "Cheeks Depth Right", 
+               "name" : "Cheeks Depth Right", 
+               "value" : "-0.1102589"
+            }, 
+            { 
+               "uid" : "Cheeks Flat", 
+               "name" : "Cheeks Flat", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Cheeks Height", 
+               "name" : "Cheeks Height", 
+               "value" : "0.1490891"
+            }, 
+            { 
+               "uid" : "Cheeks Sink", 
+               "name" : "Cheeks Sink", 
+               "value" : "-0.1805991"
+            }, 
+            { 
+               "uid" : "Cheeks Sink Left", 
+               "name" : "Cheeks Sink Left", 
+               "value" : "-0.1805991"
+            }, 
+            { 
+               "uid" : "Cheeks Sink Right", 
+               "name" : "Cheeks Sink Right", 
+               "value" : "-0.1805991"
+            }, 
+            { 
+               "uid" : "CheekShape3", 
+               "name" : "CheekShape3", 
+               "value" : "-0.2522566"
+            }, 
+            { 
+               "uid" : "CheeksOut", 
+               "name" : "CheeksOut", 
+               "value" : "-0.3487554"
+            }, 
+            { 
+               "uid" : "CheeksPuffLower", 
+               "name" : "CheeksPuffLower", 
+               "value" : "0.06883764"
+            }, 
+            { 
+               "uid" : "CheeksSmooth", 
+               "name" : "CheeksSmooth", 
+               "value" : "0.4730842"
+            }, 
+            { 
+               "uid" : "Cornea Depth", 
+               "name" : "Cornea Depth", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "EyeAreaSmooth", 
+               "name" : "EyeAreaSmooth", 
+               "value" : "0.2522523"
+            }, 
+            { 
+               "uid" : "Eyelids Lower Height", 
+               "name" : "Eyelids Lower Height", 
+               "value" : "0.1806037"
+            }, 
+            { 
+               "uid" : "Eyelids Shape 1", 
+               "name" : "Eyelids Shape 1", 
+               "value" : "0.5045278"
+            }, 
+            { 
+               "uid" : "Eyelids Shape 2", 
+               "name" : "Eyelids Shape 2", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Eyes Height", 
+               "name" : "Eyes Height", 
+               "value" : "0.08026767"
+            }, 
+            { 
+               "uid" : "Eyes Height Left", 
+               "name" : "Eyes Height Left", 
+               "value" : "0.08026767"
+            }, 
+            { 
+               "uid" : "Eyes Height Right", 
+               "name" : "Eyes Height Right", 
+               "value" : "0.08026767"
+            }, 
+            { 
+               "uid" : "Eyes Height Upper", 
+               "name" : "Eyes Height Upper", 
+               "value" : "0.7568243"
+            }, 
+            { 
+               "uid" : "Eyes Inner  Shape", 
+               "name" : "Eyes Inner  Shape", 
+               "value" : "0.4725175"
+            }, 
+            { 
+               "uid" : "Eyes Inner Corner Height", 
+               "name" : "Eyes Inner Corner Height", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Eyes Lower Shape", 
+               "name" : "Eyes Lower Shape", 
+               "value" : "-0.1261454"
+            }, 
+            { 
+               "uid" : "Eyes Round", 
+               "name" : "Eyes Round", 
+               "value" : "-0.4242457"
+            }, 
+            { 
+               "uid" : "Eyes Shift Upper", 
+               "name" : "Eyes Shift Upper", 
+               "value" : "0.8599973"
+            }, 
+            { 
+               "uid" : "EyeShape5", 
+               "name" : "EyeShape5", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "EyesShape2", 
+               "name" : "EyesShape2", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "LacrimalStretch", 
+               "name" : "LacrimalStretch", 
+               "value" : "0.1146526"
+            }, 
+            { 
+               "uid" : "LacrimalYoung", 
+               "name" : "LacrimalYoung", 
+               "value" : "0.1720011"
+            }, 
+            { 
+               "uid" : "Face Angle", 
+               "name" : "Face Angle", 
+               "value" : "-0.1375652"
+            }, 
+            { 
+               "uid" : "Face Center Depth", 
+               "name" : "Face Center Depth", 
+               "value" : "0.3783629"
+            }, 
+            { 
+               "uid" : "Face Depth Lower ", 
+               "name" : "Face Depth Lower ", 
+               "value" : "-0.0917272"
+            }, 
+            { 
+               "uid" : "Face Flat", 
+               "name" : "Face Flat", 
+               "value" : "0.02292657"
+            }, 
+            { 
+               "uid" : "Face Flat Left", 
+               "name" : "Face Flat Left", 
+               "value" : "0.02292657"
+            }, 
+            { 
+               "uid" : "Face Flat Right", 
+               "name" : "Face Flat Right", 
+               "value" : "0.02292657"
+            }, 
+            { 
+               "uid" : "Face Heart", 
+               "name" : "Face Heart", 
+               "value" : "0.2063945"
+            }, 
+            { 
+               "uid" : "Face Heart Left", 
+               "name" : "Face Heart Left", 
+               "value" : "0.2063945"
+            }, 
+            { 
+               "uid" : "Face Heart Right", 
+               "name" : "Face Heart Right", 
+               "value" : "0.2063945"
+            }, 
+            { 
+               "uid" : "Face Round", 
+               "name" : "Face Round", 
+               "value" : "-0.3898672"
+            }, 
+            { 
+               "uid" : "Face Round Left", 
+               "name" : "Face Round Left", 
+               "value" : "-0.3898672"
+            }, 
+            { 
+               "uid" : "Face Round Right", 
+               "name" : "Face Round Right", 
+               "value" : "-0.3898672"
+            }, 
+            { 
+               "uid" : "FaceExotic", 
+               "name" : "FaceExotic", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "FaceShape1", 
+               "name" : "FaceShape1", 
+               "value" : "0.1146579"
+            }, 
+            { 
+               "uid" : "FaceShape2", 
+               "name" : "FaceShape2", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "FaceShapeFlat1", 
+               "name" : "FaceShapeFlat1", 
+               "value" : "0.1490648"
+            }, 
+            { 
+               "uid" : "FaceShapeRound2", 
+               "name" : "FaceShapeRound2", 
+               "value" : "-0.5152588"
+            }, 
+            { 
+               "uid" : "FemaleProportion2", 
+               "name" : "FemaleProportion2", 
+               "value" : "0.09173834"
+            }, 
+            { 
+               "uid" : "FemaleProportion4", 
+               "name" : "FemaleProportion4", 
+               "value" : "0.4013457"
+            }, 
+            { 
+               "uid" : "Young1", 
+               "name" : "Young1", 
+               "value" : "-0.4242629"
+            }, 
+            { 
+               "uid" : "Young2", 
+               "name" : "Young2", 
+               "value" : "-0.4930614"
+            }, 
+            { 
+               "uid" : "Jaw Angle", 
+               "name" : "Jaw Angle", 
+               "value" : "-0.02293259"
+            }, 
+            { 
+               "uid" : "Jaw Chin Shape", 
+               "name" : "Jaw Chin Shape", 
+               "value" : "0.2863975"
+            }, 
+            { 
+               "uid" : "Jaw Corner Height", 
+               "name" : "Jaw Corner Height", 
+               "value" : "-0.45"
+            }, 
+            { 
+               "uid" : "Jaw Corner Shape", 
+               "name" : "Jaw Corner Shape", 
+               "value" : "0.3325342"
+            }, 
+            { 
+               "uid" : "Jaw Define", 
+               "name" : "Jaw Define", 
+               "value" : "0.7876477"
+            }, 
+            { 
+               "uid" : "Jaw Round", 
+               "name" : "Jaw Round", 
+               "value" : "-0.3325099"
+            }, 
+            { 
+               "uid" : "JawCornerForward", 
+               "name" : "JawCornerForward", 
+               "value" : "-0.628711"
+            }, 
+            { 
+               "uid" : "JawlineRecede", 
+               "name" : "JawlineRecede", 
+               "value" : "0.1031973"
+            }, 
+            { 
+               "uid" : "JawlineReduce", 
+               "name" : "JawlineReduce", 
+               "value" : "-0.6215267"
+            }, 
+            { 
+               "uid" : "Lip Lower Size", 
+               "name" : "Lip Lower Size", 
+               "value" : "-0.1234884"
+            }, 
+            { 
+               "uid" : "Lip Lower Width", 
+               "name" : "Lip Lower Width", 
+               "value" : "-0.158786"
+            }, 
+            { 
+               "uid" : "LipLoPuffy", 
+               "name" : "LipLoPuffy", 
+               "value" : "0.6704133"
+            }, 
+            { 
+               "uid" : "Lips Bottom Shape ", 
+               "name" : "Lips Bottom Shape ", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "LipUpPuffy", 
+               "name" : "LipUpPuffy", 
+               "value" : "0.9644538"
+            }, 
+            { 
+               "uid" : "Nose A", 
+               "name" : "Nose A", 
+               "value" : "0.2637769"
+            }, 
+            { 
+               "uid" : "Nose Bridge Curve", 
+               "name" : "Nose Bridge Curve", 
+               "value" : "-0.6191754"
+            }, 
+            { 
+               "uid" : "Nose Bridge Depth", 
+               "name" : "Nose Bridge Depth", 
+               "value" : "-0.103157"
+            }, 
+            { 
+               "uid" : "Nose Bridge Middlle Depth", 
+               "name" : "Nose Bridge Middlle Depth", 
+               "value" : "-0.2123872"
+            }, 
+            { 
+               "uid" : "Nose Bridge Root Width", 
+               "name" : "Nose Bridge Root Width", 
+               "value" : "-0.136186"
+            }, 
+            { 
+               "uid" : "Nose Bump", 
+               "name" : "Nose Bump", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Nose Septum Height", 
+               "name" : "Nose Septum Height", 
+               "value" : "0.126138"
+            }, 
+            { 
+               "uid" : "NoseShape12", 
+               "name" : "NoseShape12", 
+               "value" : "0.5045542"
+            }, 
+            { 
+               "uid" : "NoseShape3", 
+               "name" : "NoseShape3", 
+               "value" : "-0.194941"
+            }, 
+            { 
+               "uid" : "NoseTip2", 
+               "name" : "NoseTip2", 
+               "value" : "-0.3535681"
+            }, 
+            { 
+               "uid" : "Head Width", 
+               "name" : "Head Width", 
+               "value" : "0.0229286"
+            }, 
+            { 
+               "uid" : "Temples Define Left", 
+               "name" : "Temples Define Left", 
+               "value" : "0.214999"
+            }, 
+            { 
+               "uid" : "Adrianna", 
+               "name" : "Adrianna", 
+               "value" : "0.5377051"
+            }, 
+            { 
+               "uid" : "Candy", 
+               "name" : "Candy", 
+               "value" : "-0.1991968"
+            }, 
+            { 
+               "uid" : "Neomi", 
+               "name" : "Neomi", 
+               "value" : "0.5296609"
+            }, 
+            { 
+               "uid" : "Glutes Round", 
+               "name" : "Glutes Round", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Glutes Width", 
+               "name" : "Glutes Width", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "GluteShape1", 
+               "name" : "GluteShape1", 
+               "value" : "0.002117634"
+            }, 
+            { 
+               "uid" : "GluteShape2", 
+               "name" : "GluteShape2", 
+               "value" : "0.424288"
+            }, 
+            { 
+               "uid" : "Hip Bone Size", 
+               "name" : "Hip Bone Size", 
+               "value" : "-0.5"
+            }, 
+            { 
+               "uid" : "Hip Size", 
+               "name" : "Hip Size", 
+               "value" : "-0.4299623"
+            }, 
+            { 
+               "uid" : "Hips High", 
+               "name" : "Hips High", 
+               "value" : "0.6236305"
+            }, 
+            { 
+               "uid" : "Hips Round", 
+               "name" : "Hips Round", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "HipShape1", 
+               "name" : "HipShape1", 
+               "value" : "0.5130581"
+            }, 
+            { 
+               "uid" : "HipSmall", 
+               "name" : "HipSmall", 
+               "value" : "0.8708336"
+            }, 
+            { 
+               "uid" : "HipSmall2", 
+               "name" : "HipSmall2", 
+               "value" : "-0.5053232"
+            }, 
+            { 
+               "uid" : "HipSmooth", 
+               "name" : "HipSmooth", 
+               "value" : "-0.5754691"
+            }, 
+            { 
+               "uid" : "HipSoftenCurves", 
+               "name" : "HipSoftenCurves", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "HipThighYoung", 
+               "name" : "HipThighYoung", 
+               "value" : "-0.673399"
+            }, 
+            { 
+               "uid" : "Iliac Line", 
+               "name" : "Iliac Line", 
+               "value" : "0.3497354"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0.5784233"
+            }, 
+            { 
+               "uid" : "LegShape1", 
+               "name" : "LegShape1", 
+               "value" : "-0.04584581"
+            }, 
+            { 
+               "uid" : "LegShape2", 
+               "name" : "LegShape2", 
+               "value" : "-0.5733616"
+            }, 
+            { 
+               "uid" : "Shins Size", 
+               "name" : "Shins Size", 
+               "value" : "-0.2751981"
+            }, 
+            { 
+               "uid" : "ShinsStraighten", 
+               "name" : "ShinsStraighten", 
+               "value" : "0.01144052"
+            }, 
+            { 
+               "uid" : "Thigh Bone Size", 
+               "name" : "Thigh Bone Size", 
+               "value" : "-0.1834912"
+            }, 
+            { 
+               "uid" : "Thighs Tone", 
+               "name" : "Thighs Tone", 
+               "value" : "0.6237298"
+            }, 
+            { 
+               "uid" : "ThighShape", 
+               "name" : "ThighShape", 
+               "value" : "-0.2158584"
+            }, 
+            { 
+               "uid" : "ThighStraight", 
+               "name" : "ThighStraight", 
+               "value" : "-1.623099"
+            }, 
+            { 
+               "uid" : "BellyShape3", 
+               "name" : "BellyShape3", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "BellySideSmooth", 
+               "name" : "BellySideSmooth", 
+               "value" : "0.7452747"
+            }, 
+            { 
+               "uid" : "Love Handles", 
+               "name" : "Love Handles", 
+               "value" : "0.2150189"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0.7362888"
+            }, 
+            { 
+               "uid" : "Navel Depth", 
+               "name" : "Navel Depth", 
+               "value" : "0.335519"
+            }, 
+            { 
+               "uid" : "Rectus Width", 
+               "name" : "Rectus Width", 
+               "value" : "-0.2088984"
+            }, 
+            { 
+               "uid" : "Stomach Lower Depth", 
+               "name" : "Stomach Lower Depth", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "Stomach Shape 1", 
+               "name" : "Stomach Shape 1", 
+               "value" : "-0.9761884"
+            }, 
+            { 
+               "uid" : "Waist Narrow Lower", 
+               "name" : "Waist Narrow Lower", 
+               "value" : "-2.980232E-06"
+            }, 
+            { 
+               "uid" : "Waist Narrow Upper", 
+               "name" : "Waist Narrow Upper", 
+               "value" : "0.785362"
+            }, 
+            { 
+               "uid" : "Waist Width", 
+               "name" : "Waist Width", 
+               "value" : "-0.7647446"
+            }, 
+            { 
+               "uid" : "WaistBellyInOut", 
+               "name" : "WaistBellyInOut", 
+               "value" : "-0.7912621"
+            }, 
+            { 
+               "uid" : "WaistHipDefine", 
+               "name" : "WaistHipDefine", 
+               "value" : "-1"
+            }, 
+            { 
+               "uid" : "WaistHourglass", 
+               "name" : "WaistHourglass", 
+               "value" : "0.09447837"
+            }, 
+            { 
+               "uid" : "WaistNarrow", 
+               "name" : "WaistNarrow", 
+               "value" : "-1.117659"
+            }, 
+            { 
+               "uid" : "WaistNarrow2", 
+               "name" : "WaistNarrow2", 
+               "value" : "4"
+            }, 
+            { 
+               "uid" : "TenStrip.Morphs.2:/Custom/Atom/Person/Morphs/female/TenStrip/Thicc.vmi", 
+               "name" : "Thicc", 
+               "value" : "-0.1428999"
+            }, 
+            { 
+               "uid" : "WeebU.My_morphs.4:/Custom/Atom/Person/Morphs/female/Thicc XL-58a3d891.vmi", 
+               "name" : "Thicc XL", 
+               "value" : "0.4271158"
+            }
+         ]
+      }, 
+      { 
+         "id" : "EyelidControl", 
+         "eyelidLookMorphsEnabled" : "true"
+      }, 
+      { 
+         "id" : "AutoJawMouthMorph", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "AutoExpressions", 
+         "enabled" : "false"
+      }, 
+      { 
+         "id" : "PectoralControl", 
+         "mass" : "0.5", 
+         "centerOfGravityPercent" : "1", 
+         "spring" : "25", 
+         "damper" : "0.1", 
+         "positionSpringX" : "0", 
+         "positionSpringY" : "0", 
+         "positionSpringZ" : "250", 
+         "positionDamperX" : "0", 
+         "positionDamperY" : "0", 
+         "positionDamperZ" : "5", 
+         "targetRotationX" : "-6.963824", 
+         "targetRotationY" : "0", 
+         "targetRotationZ" : "0"
+      }, 
+      { 
+         "id" : "MaleAnatomy", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "FemaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1111108", 
+            "s" : "0.2093028", 
+            "v" : "0.1686275"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MaleEyelashes", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2450", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1.25", 
+         "Gloss" : "5.6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Alpha Adjust" : "0", 
+         "Alpha Cutoff" : "0.3", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Eyelash" : "Lashes 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.111111", 
+            "s" : "0.2499996", 
+            "v" : "0.0470588"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.07936499", 
+            "s" : "0.2999999", 
+            "v" : "0.2745098"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.2509804", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "irises", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Irises" : "Color 40", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "sclera", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.5", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "0.2", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.3", 
+         "Specular Bumpiness" : "0.05", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Sclera" : "Sclera 1", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.5584416", 
+            "s" : "0.3019608", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "lacrimals", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6.5", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SoftBodyPhysicsEnabler", 
+         "enabled" : "true"
+      }, 
+      { 
+         "id" : "rescaleObject", 
+         "scale" : "1"
+      }, 
+      { 
+         "id" : "skin", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.7", 
+         "Specular Bumpiness" : "0.7", 
+         "Global Illumination Filter" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "Face" : "Red", 
+         "Nails" : "Nude", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "Skin Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0.1792828", 
+            "v" : "0.9843138"
+         }
+      }, 
+      { 
+         "id" : "textures", 
+         "autoBlendGenitalTextures" : "false", 
+         "autoBlendGenitalSpecGlossNormalTextures" : "true", 
+         "autoBlendGenitalLightenDarken" : "0", 
+         "autoBlendGenitalHueOffset" : "0", 
+         "autoBlendGenitalSaturationOffset" : "0", 
+         "faceDiffuseUrl" : "", 
+         "torsoDiffuseUrl" : "", 
+         "limbsDiffuseUrl" : "", 
+         "genitalsDiffuseUrl" : "", 
+         "faceSpecularUrl" : "", 
+         "torsoSpecularUrl" : "", 
+         "limbsSpecularUrl" : "", 
+         "genitalsSpecularUrl" : "", 
+         "faceGlossUrl" : "", 
+         "torsoGlossUrl" : "", 
+         "limbsGlossUrl" : "", 
+         "genitalsGlossUrl" : "", 
+         "faceNormalUrl" : "", 
+         "torsoNormalUrl" : "", 
+         "limbsNormalUrl" : "", 
+         "genitalsNormalUrl" : "", 
+         "faceDetailUrl" : "", 
+         "torsoDetailUrl" : "", 
+         "limbsDetailUrl" : "", 
+         "genitalsDetailUrl" : "", 
+         "faceDecalUrl" : "", 
+         "torsoDecalUrl" : "", 
+         "limbsDecalUrl" : "", 
+         "genitalsDecalUrl" : ""
+      }, 
+      { 
+         "id" : "teeth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "1", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.9245283"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "tongue", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "0.2", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "0.2", 
+         "Specular Bumpiness" : "0.5", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "mouth", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "1999", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "6", 
+         "Specular Fresnel" : "0.5", 
+         "Global Illumination Filter" : "0.5", 
+         "Diffuse Texture Offset" : "0", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Top BunSim", 
+         "styleModeAllowControlOtherNodes" : "false", 
+         "styleModeShowCurls" : "false", 
+         "styleModeShowTool1" : "true", 
+         "styleModeShowTool2" : "true", 
+         "styleModeShowTool3" : "false", 
+         "styleModeShowTool4" : "false", 
+         "simulationEnabled" : "false", 
+         "collisionEnabled" : "false", 
+         "usePaintedRigidity" : "true", 
+         "curlAllowReverse" : "true", 
+         "curlAllowFlipAxis" : "true", 
+         "styleJointsSearchDistance" : "0.01", 
+         "styleModeCollisionRadius" : "0.002402643", 
+         "styleModeCollisionRadiusRoot" : "0.001404184", 
+         "styleModeGravityMultiplier" : "0", 
+         "styleModeUpHairPullStrength" : "0.1328805", 
+         "collisionRadius" : "0.003472637", 
+         "collisionRadiusRoot" : "0.001", 
+         "drag" : "0.1", 
+         "rootRigidity" : "0.2", 
+         "mainRigidity" : "0.01", 
+         "tipRigidity" : "0", 
+         "rigidityRolloffPower" : "8", 
+         "friction" : "0.2", 
+         "gravityMultiplier" : "1", 
+         "weight" : "1.5", 
+         "iterations" : "2", 
+         "cling" : "0.5", 
+         "clingRolloff" : "1", 
+         "snap" : "0.2", 
+         "bendResistance" : "0.2", 
+         "colorRolloff" : "0.5686951", 
+         "diffuseSoftness" : "0.441215", 
+         "primarySpecularSharpness" : "234.2146", 
+         "secondarySpecularSharpness" : "187.6696", 
+         "specularShift" : "0.4845377", 
+         "fresnelPower" : "8", 
+         "fresnelAttenuation" : "0.2", 
+         "randomColorPower" : "2", 
+         "randomColorOffset" : "0.8615739", 
+         "IBLFactor" : "0.5", 
+         "normalRandomize" : "0", 
+         "curlX" : "0.09625454", 
+         "curlY" : "0.07900187", 
+         "curlZ" : "0.07709378", 
+         "curlScale" : "0.1034391", 
+         "curlScaleRandomness" : "1.326664", 
+         "curlFrequency" : "0.1", 
+         "curlFrequencyRandomness" : "1.510172", 
+         "curlNormalAdjust" : "0", 
+         "curlRoot" : "0", 
+         "curlMid" : "1", 
+         "curlTip" : "1", 
+         "curlMidpoint" : "0.4130656", 
+         "curlCurvePower" : "1.1005", 
+         "length1" : "0.9378081", 
+         "length2" : "1", 
+         "length3" : "0.8691916", 
+         "width" : "9.999999E-05", 
+         "curveDensity" : "24", 
+         "hairMultiplier" : "10", 
+         "maxSpread" : "0.025", 
+         "spreadRoot" : "1", 
+         "spreadMid" : "1", 
+         "spreadTip" : "0", 
+         "spreadMidpoint" : "0.7063296", 
+         "spreadCurvePower" : "1", 
+         "wind" : [ 
+            "0", 
+            "0", 
+            "0"
+         ], 
+         "shaderType" : "Quality", 
+         "rootColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0"
+         }, 
+         "tipColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.6657044"
+         }, 
+         "specularColor" : { 
+            "h" : "0", 
+            "s" : "0.1570093", 
+            "v" : "0.7104313"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Top BunItemControl", 
+         "disableAnatomy" : "false"
+      }, 
+      { 
+         "id" : "NoStage3:Top BunSoleilScalpMaterial", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2423", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "2.5", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.7", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0.4662595", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.07384675", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Long UpsweptSim", 
+         "styleModeAllowControlOtherNodes" : "false", 
+         "styleModeShowCurls" : "false", 
+         "styleModeShowTool1" : "true", 
+         "styleModeShowTool2" : "true", 
+         "styleModeShowTool3" : "false", 
+         "styleModeShowTool4" : "false", 
+         "simulationEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "usePaintedRigidity" : "true", 
+         "curlAllowReverse" : "true", 
+         "curlAllowFlipAxis" : "true", 
+         "styleJointsSearchDistance" : "0.01", 
+         "styleModeCollisionRadius" : "0.001", 
+         "styleModeCollisionRadiusRoot" : "0.001", 
+         "styleModeGravityMultiplier" : "0", 
+         "styleModeUpHairPullStrength" : "0.1", 
+         "collisionRadius" : "0.003472637", 
+         "collisionRadiusRoot" : "0.001", 
+         "drag" : "0.1", 
+         "rootRigidity" : "0.2", 
+         "mainRigidity" : "0.01", 
+         "tipRigidity" : "0", 
+         "rigidityRolloffPower" : "8", 
+         "friction" : "0.2", 
+         "gravityMultiplier" : "1", 
+         "weight" : "1.5", 
+         "iterations" : "2", 
+         "cling" : "0.5", 
+         "clingRolloff" : "1", 
+         "snap" : "0.2", 
+         "bendResistance" : "0.2", 
+         "colorRolloff" : "0.5686951", 
+         "diffuseSoftness" : "0.441215", 
+         "primarySpecularSharpness" : "234.2146", 
+         "secondarySpecularSharpness" : "187.6696", 
+         "specularShift" : "0.4845377", 
+         "fresnelPower" : "8", 
+         "fresnelAttenuation" : "0.2", 
+         "randomColorPower" : "2", 
+         "randomColorOffset" : "0.8615739", 
+         "IBLFactor" : "0.5", 
+         "normalRandomize" : "0", 
+         "curlX" : "0.09475116", 
+         "curlY" : "0.09817221", 
+         "curlZ" : "0.1059557", 
+         "curlScale" : "0.08597992", 
+         "curlScaleRandomness" : "0.9913318", 
+         "curlFrequency" : "0.3", 
+         "curlFrequencyRandomness" : "0.8278143", 
+         "curlNormalAdjust" : "0", 
+         "curlRoot" : "0", 
+         "curlMid" : "1", 
+         "curlTip" : "1", 
+         "curlMidpoint" : "0.4130656", 
+         "curlCurvePower" : "1.1005", 
+         "length1" : "0.9378081", 
+         "length2" : "1", 
+         "length3" : "0.8691916", 
+         "width" : "0.0001", 
+         "curveDensity" : "16", 
+         "hairMultiplier" : "16", 
+         "maxSpread" : "0.02", 
+         "spreadRoot" : "1", 
+         "spreadMid" : "1", 
+         "spreadTip" : "0.03072445", 
+         "spreadMidpoint" : "0.2183038", 
+         "spreadCurvePower" : "1", 
+         "wind" : [ 
+            "0", 
+            "0", 
+            "0"
+         ], 
+         "shaderType" : "Quality", 
+         "rootColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0"
+         }, 
+         "tipColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.6657044"
+         }, 
+         "specularColor" : { 
+            "h" : "0", 
+            "s" : "0.1570093", 
+            "v" : "0.7104313"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Long UpsweptItemControl", 
+         "disableAnatomy" : "false"
+      }, 
+      { 
+         "id" : "NoStage3:Long UpsweptSoleilScalpMaterial", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2423", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "2.5", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.7", 
+         "Alpha Adjust" : "-0.08441699", 
+         "Diffuse Texture Offset" : "0.3716389", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.05945584", 
+            "s" : "0.4433383", 
+            "v" : "0.4119854"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Bangs 6Sim", 
+         "styleModeAllowControlOtherNodes" : "false", 
+         "styleModeShowCurls" : "false", 
+         "styleModeShowTool1" : "true", 
+         "styleModeShowTool2" : "true", 
+         "styleModeShowTool3" : "false", 
+         "styleModeShowTool4" : "false", 
+         "simulationEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "usePaintedRigidity" : "true", 
+         "curlAllowReverse" : "true", 
+         "curlAllowFlipAxis" : "true", 
+         "styleJointsSearchDistance" : "0.01", 
+         "styleModeCollisionRadius" : "0.008147876", 
+         "styleModeCollisionRadiusRoot" : "0.002603285", 
+         "styleModeGravityMultiplier" : "0", 
+         "styleModeUpHairPullStrength" : "0.1157295", 
+         "collisionRadius" : "0.005961903", 
+         "collisionRadiusRoot" : "0.001", 
+         "drag" : "0.1", 
+         "rootRigidity" : "0.2", 
+         "mainRigidity" : "0.01", 
+         "tipRigidity" : "0", 
+         "rigidityRolloffPower" : "8", 
+         "friction" : "0.2", 
+         "gravityMultiplier" : "1", 
+         "weight" : "1.5", 
+         "iterations" : "2", 
+         "cling" : "0.5", 
+         "clingRolloff" : "1", 
+         "snap" : "0.2", 
+         "bendResistance" : "0.2", 
+         "colorRolloff" : "0.5686951", 
+         "diffuseSoftness" : "0.441215", 
+         "primarySpecularSharpness" : "234.2146", 
+         "secondarySpecularSharpness" : "187.6696", 
+         "specularShift" : "0.4845377", 
+         "fresnelPower" : "8", 
+         "fresnelAttenuation" : "0.2", 
+         "randomColorPower" : "2", 
+         "randomColorOffset" : "0.8615739", 
+         "IBLFactor" : "0.5", 
+         "normalRandomize" : "0", 
+         "curlX" : "0.03223316", 
+         "curlY" : "0.03259265", 
+         "curlZ" : "0.08404603", 
+         "curlScale" : "0.142912", 
+         "curlScaleRandomness" : "0.4221775", 
+         "curlFrequency" : "0.3", 
+         "curlFrequencyRandomness" : "0.2614252", 
+         "curlNormalAdjust" : "0.0004647725", 
+         "curlRoot" : "0", 
+         "curlMid" : "0.2612189", 
+         "curlTip" : "1", 
+         "curlMidpoint" : "0.4755093", 
+         "curlCurvePower" : "1.43968", 
+         "length1" : "0.9454144", 
+         "length2" : "1", 
+         "length3" : "0.9266004", 
+         "width" : "0.00012", 
+         "curveDensity" : "16", 
+         "hairMultiplier" : "19", 
+         "maxSpread" : "0.018", 
+         "spreadRoot" : "1", 
+         "spreadMid" : "1", 
+         "spreadTip" : "0.3878644", 
+         "spreadMidpoint" : "0.47407", 
+         "spreadCurvePower" : "1.237666", 
+         "wind" : [ 
+            "0", 
+            "0", 
+            "0"
+         ], 
+         "shaderType" : "Quality", 
+         "rootColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0"
+         }, 
+         "tipColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.6657044"
+         }, 
+         "specularColor" : { 
+            "h" : "0", 
+            "s" : "0.1570093", 
+            "v" : "0.7104313"
+         }
+      }, 
+      { 
+         "id" : "NoStage3:Bangs 6ItemControl", 
+         "disableAnatomy" : "false"
+      }, 
+      { 
+         "id" : "NoStage3:Bangs 6SoleilScalpMaterial", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2423", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "2.5", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0.7", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "-4.823308E-05", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "1", 
+         "customTexture1OffsetY" : "1", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "1", 
+         "customTexture2OffsetY" : "1", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.06719744", 
+            "s" : "1", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.2148237"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "ICannotDie:Natural Trimmed 08Sim", 
+         "styleModeAllowControlOtherNodes" : "false", 
+         "styleModeShowCurls" : "false", 
+         "styleModeShowTool1" : "true", 
+         "styleModeShowTool2" : "false", 
+         "styleModeShowTool3" : "false", 
+         "styleModeShowTool4" : "false", 
+         "simulationEnabled" : "false", 
+         "collisionEnabled" : "true", 
+         "usePaintedRigidity" : "false", 
+         "curlAllowReverse" : "true", 
+         "curlAllowFlipAxis" : "true", 
+         "styleJointsSearchDistance" : "0.01", 
+         "styleModeCollisionRadius" : "0.004", 
+         "styleModeCollisionRadiusRoot" : "0.002", 
+         "styleModeGravityMultiplier" : "0.092", 
+         "styleModeUpHairPullStrength" : "0.2", 
+         "collisionRadius" : "0.008251159", 
+         "collisionRadiusRoot" : "0.004", 
+         "drag" : "0.1", 
+         "rootRigidity" : "0.2", 
+         "mainRigidity" : "0.01", 
+         "tipRigidity" : "0", 
+         "rigidityRolloffPower" : "8", 
+         "friction" : "0.2", 
+         "gravityMultiplier" : "1", 
+         "weight" : "1.5", 
+         "iterations" : "2", 
+         "cling" : "0.5", 
+         "clingRolloff" : "1", 
+         "snap" : "0.2", 
+         "bendResistance" : "0.2", 
+         "colorRolloff" : "0.5686951", 
+         "diffuseSoftness" : "0.441215", 
+         "primarySpecularSharpness" : "234.2146", 
+         "secondarySpecularSharpness" : "187.6696", 
+         "specularShift" : "0.4845377", 
+         "fresnelPower" : "8", 
+         "fresnelAttenuation" : "0.2", 
+         "randomColorPower" : "2", 
+         "randomColorOffset" : "0.8615739", 
+         "IBLFactor" : "0.5", 
+         "normalRandomize" : "0", 
+         "curlX" : "0.116", 
+         "curlY" : "0.117", 
+         "curlZ" : "0.048", 
+         "curlScale" : "0.01802803", 
+         "curlScaleRandomness" : "1.391", 
+         "curlFrequency" : "8.388", 
+         "curlFrequencyRandomness" : "0.765", 
+         "curlNormalAdjust" : "0.1292797", 
+         "curlRoot" : "0.40485", 
+         "curlMid" : "0.716", 
+         "curlTip" : "0.842", 
+         "curlMidpoint" : "0.5", 
+         "curlCurvePower" : "1", 
+         "length1" : "0.703", 
+         "length2" : "0.556", 
+         "length3" : "0.645", 
+         "width" : "7.15994E-05", 
+         "curveDensity" : "12", 
+         "hairMultiplier" : "6", 
+         "maxSpread" : "0.025", 
+         "spreadRoot" : "0.6161779", 
+         "spreadMid" : "0.9048083", 
+         "spreadTip" : "0.7283463", 
+         "spreadMidpoint" : "0.5", 
+         "spreadCurvePower" : "1", 
+         "wind" : [ 
+            "0", 
+            "0", 
+            "0"
+         ], 
+         "shaderType" : "Quality", 
+         "rootColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0"
+         }, 
+         "tipColor" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.6657044"
+         }, 
+         "specularColor" : { 
+            "h" : "0", 
+            "s" : "0.1570093", 
+            "v" : "0.7104313"
+         }
+      }, 
+      { 
+         "id" : "ICannotDie:Natural Trimmed 08ItemControl", 
+         "disableAnatomy" : "false"
+      }, 
+      { 
+         "id" : "ICannotDie:Natural Trimmed 08CustomScalpWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "0", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "ICannotDie:Natural Trimmed 08CustomScalpMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "3.294586", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "-1", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.8"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Lulu EarringsWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "0.0002726423", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Lulu EarringsSim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.001", 
+         "drag" : "0.01", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.699", 
+         "compressionResistance" : "1", 
+         "friction" : "0", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "1", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Lulu EarringsItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Lulu EarringsMaterialdets", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "1", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0", 
+         "Gloss Texture Offset" : "1", 
+         "Global Illumination Filter" : "0.5", 
+         "Alpha Adjust" : "-0.069", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "2", 
+         "Specular Bumpiness" : "2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.Lulu_Earrings_for_Futa.1:/Custom/Clothing/Female/SupaRioAmateur/Lulu Cloth/Tex/lulu_base.jpg", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "WeebU.Lulu_Earrings_for_Futa.1:/Custom/Clothing/Female/SupaRioAmateur/Lulu Cloth/Tex/lulu_alpha.jpg", 
+         "customTexture_BumpMap" : "WeebU.Lulu_Earrings_for_Futa.1:/Custom/Clothing/Female/SupaRioAmateur/Lulu Cloth/Tex/lulu_nrm.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "WeebU.Lulu_Earrings_for_Futa.1:/Custom/Clothing/Male/SupaRioAmateur/Lulu Earrings/Lulu Earrings Sim.jpg", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4996607"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Net socksWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:Net socksSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:Net socksItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:Net socksMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/_Diffuse_1001.png", 
+         "customTexture_SpecTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/_Specular_1001.png", 
+         "customTexture_GlossTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/_Glossiness_1001.png", 
+         "customTexture_AlphaTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/alpha.jpg", 
+         "customTexture_BumpMap" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net socks/_Normal_OpenGL_1001.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.8670455", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Net chestWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:Net chestSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:Net chestItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:Net chestMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/Default_Diffuse_1001.png", 
+         "customTexture_SpecTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/Default_Specular_1001.png", 
+         "customTexture_GlossTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/Default_Glossiness_1001.png", 
+         "customTexture_AlphaTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/alpha.jpg", 
+         "customTexture_BumpMap" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net chest/Default_Normal_OpenGL_1001.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Net sleevesWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0003", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:Net sleevesSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:Net sleevesItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:Net sleevesMaterialCombined", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/_Diffuse_1001.png", 
+         "customTexture_SpecTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/_Specular_1001.png", 
+         "customTexture_GlossTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/_Glossiness_1001.png", 
+         "customTexture_AlphaTex" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/alpha.jpg", 
+         "customTexture_BumpMap" : "WeebU.FIshnet_futa_outfit.2:/Custom/Clothing/Male/WeebU/Net sleeves/_Normal_OpenGL_1001.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-0.0002", 
+         "additionalThicknessMultiplier" : "0.0003", 
+         "smoothIterations" : "2"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureMaterialIndex", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "6.999", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "-0.2", 
+         "Diffuse Bumpiness" : "1.2", 
+         "Specular Bumpiness" : "1.2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0.25", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "0.5", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.24", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0.05687106", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Glossiness.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Curvecut_Alpha.png", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/N.png", 
+         "customTexture_DecalTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Clear SKin Soft Cover.png", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.7971942", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4981289"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureMaterialMid", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "6.999", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "-0.2", 
+         "Diffuse Bumpiness" : "1.2", 
+         "Specular Bumpiness" : "1.2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0.25", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "0.5", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.24", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0.05687106", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Glossiness.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Curvecut_Alpha.png", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/N.png", 
+         "customTexture_DecalTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Clear SKin Soft Cover.png", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.7971942", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4981289"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureMaterialRing", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "6.999", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "-0.2", 
+         "Diffuse Bumpiness" : "1.2", 
+         "Specular Bumpiness" : "1.2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0.25", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "0.5", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.24", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0.05687106", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Glossiness.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Curvecut_Alpha.png", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/N.png", 
+         "customTexture_DecalTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Clear SKin Soft Cover.png", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.7971942", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4981289"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureMaterialPinky", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "6.999", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "-0.2", 
+         "Diffuse Bumpiness" : "1.2", 
+         "Specular Bumpiness" : "1.2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0.25", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "0.5", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.24", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0.05687106", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Glossiness.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Curvecut_Alpha.png", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/N.png", 
+         "customTexture_DecalTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Clear SKin Soft Cover.png", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.7971942", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4981289"
+         }
+      }, 
+      { 
+         "id" : "SupaRioAmateur:Wearable ManicureMaterialThumb", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "6.999", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "-0.2", 
+         "Diffuse Bumpiness" : "1.2", 
+         "Specular Bumpiness" : "1.2", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0.25", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "0.5", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0.24", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0.05687106", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Specular.jpg", 
+         "customTexture_GlossTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Glitter/Wearable Manicure Paint_Fingernails.Long_Glossiness.jpg", 
+         "customTexture_AlphaTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Curvecut_Alpha.png", 
+         "customTexture_BumpMap" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/N.png", 
+         "customTexture_DecalTex" : "SupaRioAmateur.Wearable_Manicures.5:/Custom/Clothing/Female/SupaRioAmateur/Wearable Manicure/Tex/Clear SKin Soft Cover.png", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.7971942", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4981289"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "0.0002", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1Sim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1MaterialInsole", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Leather_D.jpg", 
+         "customTexture_SpecTex" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Leather_S.jpg", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Leather_N.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1257662", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1MaterialUpper", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Leather_N.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1MaterialStraps", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Alpha.jpg", 
+         "customTexture_BumpMap" : "MrGiggly.G-Strips.4:/Custom/Clothing/Female/MrGiggly/G_Strips_Upper_1/G_Strips_Leather_N.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Upper_1MaterialBuckle", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1.644834", 
+         "Gloss" : "4.686825", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.4409006"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighWrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0.001", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighMaterialHeel", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.09019607"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighMaterialColourway", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "4", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.3754177"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighMaterialHeel_Sole", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "1", 
+         "Gloss" : "2.444199", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.3262987"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "MrGiggly:G_Strips_Heel_HighMaterialHeel_Tip", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3.579165", 
+         "Gloss" : "4.266004", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0.6538086"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingWrapControl", 
+         "wrapToSmoothedVerts" : "true", 
+         "surfaceOffset" : "-1", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "0"
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingSim", 
+         "simEnabled" : "false", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.01", 
+         "drag" : "0.06", 
+         "weight" : "1", 
+         "distanceScale" : "1", 
+         "stiffness" : "0.5", 
+         "compressionResistance" : "0.5", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingMaterialMaterial.000", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.3285686", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "10", 
+         "customTexture5TileY" : "10", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/Metal_Diffuse.jpg", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/normal map gems.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.3353694", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1138584", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingMaterialMaterial.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.3285686", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "0.4", 
+         "customTexture5TileY" : "0.4", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/Metal_Diffuse.jpg", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.1138474", 
+            "s" : "1", 
+            "v" : "0.6815882"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1138584", 
+            "s" : "0.369515", 
+            "v" : "0.9919418"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "Giallone:Moon PiercingMaterialMaterial.003", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "3", 
+         "Gloss" : "5", 
+         "Specular Fresnel" : "0.3285686", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "10", 
+         "customTexture5TileY" : "10", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/Metal_Diffuse.jpg", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "Giallone.Moon_Piercing.1:/Custom/Clothing/Male/Giallone/Moon Piercing/normal map gems.jpg", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0.3353694", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1138584", 
+            "s" : "0", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1WrapControl", 
+         "wrapToSmoothedVerts" : "false", 
+         "surfaceOffset" : "-0.00095031", 
+         "additionalThicknessMultiplier" : "0", 
+         "smoothIterations" : "1"
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1Sim", 
+         "simEnabled" : "true", 
+         "integrateEnabled" : "true", 
+         "collisionEnabled" : "true", 
+         "allowDetach" : "false", 
+         "collisionRadius" : "0.002", 
+         "drag" : "0.05", 
+         "weight" : "1.5", 
+         "distanceScale" : "2", 
+         "stiffness" : "0.3", 
+         "compressionResistance" : "1", 
+         "friction" : "0.5", 
+         "staticMultiplier" : "2", 
+         "collisionPower" : "0.5", 
+         "gravityMultiplier" : "1", 
+         "iterations" : "3", 
+         "detachThreshold" : "0.005", 
+         "jointStrength" : "1", 
+         "force" : [ 
+            "0", 
+            "0", 
+            "0"
+         ]
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1ItemControl", 
+         "disableAnatomy" : "false", 
+         "isRealClothingItem" : "true"
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialBase1.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/S.png", 
+         "customTexture_GlossTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/G.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/N.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1284699", 
+            "s" : "0.4293171", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialGems1.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.2629365"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialBase2.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/S.png", 
+         "customTexture_GlossTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/G.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/N.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1284699", 
+            "s" : "0.4293171", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialGems2.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.2629365"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialBase3.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/S.png", 
+         "customTexture_GlossTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/G.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/N.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1284699", 
+            "s" : "0.4293171", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialGems3.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.2629365"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialBase4.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/S.png", 
+         "customTexture_GlossTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/G.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/N.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1284699", 
+            "s" : "0.4293171", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialGems4.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.2629365"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialBase5.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "7", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/S.png", 
+         "customTexture_GlossTex" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/G.png", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "WeebU.Cock_Rings_Futa_AltFuta_set.2:/Custom/Clothing/Female/WeebU/AltFuta Cock Rings 2-1/N.png", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "0"
+         }, 
+         "Specular Color" : { 
+            "h" : "0.1284699", 
+            "s" : "0.4293171", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }, 
+      { 
+         "id" : "WeebU:Futa Cock Rings set 2 - 1MaterialGems5.001", 
+         "hideMaterial" : "false", 
+         "renderQueue" : "2400", 
+         "Specular Texture Offset" : "0", 
+         "Specular Intensity" : "10", 
+         "Gloss" : "8", 
+         "Specular Fresnel" : "0.5", 
+         "Gloss Texture Offset" : "0", 
+         "Global Illumination Filter" : "0", 
+         "Alpha Adjust" : "0", 
+         "Diffuse Texture Offset" : "0", 
+         "Diffuse Bumpiness" : "1", 
+         "Specular Bumpiness" : "1", 
+         "customTexture1TileX" : "1", 
+         "customTexture1TileY" : "1", 
+         "customTexture1OffsetX" : "0", 
+         "customTexture1OffsetY" : "0", 
+         "customTexture2TileX" : "1", 
+         "customTexture2TileY" : "1", 
+         "customTexture2OffsetX" : "0", 
+         "customTexture2OffsetY" : "0", 
+         "customTexture3TileX" : "1", 
+         "customTexture3TileY" : "1", 
+         "customTexture3OffsetX" : "0", 
+         "customTexture3OffsetY" : "0", 
+         "customTexture4TileX" : "1", 
+         "customTexture4TileY" : "1", 
+         "customTexture4OffsetX" : "0", 
+         "customTexture4OffsetY" : "0", 
+         "customTexture5TileX" : "1", 
+         "customTexture5TileY" : "1", 
+         "customTexture5OffsetX" : "0", 
+         "customTexture5OffsetY" : "0", 
+         "customTexture6TileX" : "1", 
+         "customTexture6TileY" : "1", 
+         "customTexture6OffsetX" : "0", 
+         "customTexture6OffsetY" : "0", 
+         "customTexture_MainTex" : "", 
+         "customTexture_SpecTex" : "", 
+         "customTexture_GlossTex" : "", 
+         "customTexture_AlphaTex" : "", 
+         "customTexture_BumpMap" : "", 
+         "customTexture_DecalTex" : "", 
+         "simTexture" : "", 
+         "Diffuse Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "0.2629365"
+         }, 
+         "Specular Color" : { 
+            "h" : "0", 
+            "s" : "1", 
+            "v" : "1"
+         }, 
+         "Subsurface Color" : { 
+            "h" : "0", 
+            "s" : "0", 
+            "v" : "1"
+         }
+      }
+   ]
+}
